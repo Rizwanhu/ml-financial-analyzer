@@ -1,0 +1,2001 @@
+date,amount,description,category
+2022-05-11,-173.05190054054265,stationery purchase,office
+2025-02-04,-2951.0112197128865,warehouse lease payment,rent
+2024-08-14,-312.88647611393293,internet bill,utilities
+2023-10-04,-292.6055703278138,internet bill,utilities
+2023-09-25,-986.4661597004825,social media ads,marketing
+2025-06-08,-2588.5487844167446,monthly office rent,rent
+2022-05-06,-333.0474490826085,internet bill,utilities
+2024-10-15,-2410.6043594359653,monthly office rent,rent
+2022-10-22,2090.6490025732937,customer payment received,income
+2022-05-18,-616.3628767954003,hotel booking,travel
+2024-02-09,-310.61254097163817,internet bill,utilities
+2025-11-26,-295.28894865503435,internet bill,utilities
+2024-12-10,-1863.779993885931,monthly office rent,rent
+2025-01-17,-132.67821990625453,printer ink,office
+2024-11-14,-898.782971930001,hotel booking,travel
+2025-02-22,-1374.7276365456428,employee payroll,salary
+2024-01-20,-278.0099163989712,internet bill,utilities
+2022-07-07,-975.6606782884152,campaign spend,marketing
+2025-05-11,-895.8086279340451,promotional expense,marketing
+2023-10-21,-335.368947356911,electricity payment,utilities
+2024-01-02,-1878.266416178215,consultant salary,salary
+2023-06-26,-780.5577921957172,hotel booking,travel
+2022-09-24,-784.6595911718919,client visit transport,travel
+2025-09-16,-658.9738722606659,flight ticket,travel
+2025-02-15,-2295.5037767623526,monthly office rent,rent
+2024-07-29,-256.56732782721,internet bill,utilities
+2023-08-11,-690.7738981065236,client visit transport,travel
+2025-04-17,-143.16365792315483,stationery purchase,office
+2024-03-07,-709.6117020389119,flight ticket,travel
+2023-10-10,493.93386155144015,customer payment received,income
+2023-10-21,-747.4548528846184,hotel booking,travel
+2022-11-28,-1682.817347668471,consultant salary,salary
+2022-05-15,-2405.554594264373,building rent,rent
+2024-03-21,-748.4384356338953,campaign spend,marketing
+2025-07-21,-152.11937794539375,stationery purchase,office
+2022-04-04,-123.25235742703784,printer ink,office
+2025-06-07,-634.3040649824038,flight ticket,travel
+2025-04-24,3866.817595695578,customer payment received,income
+2023-02-09,-135.17705921176065,stationery purchase,office
+2024-07-11,-292.8315997276662,internet bill,utilities
+2022-08-30,-1807.5824302780886,employee payroll,salary
+2025-01-12,-136.90836511559073,stationery purchase,office
+2024-10-20,-835.6585994112627,promotional expense,marketing
+2023-06-02,-1006.6481577721264,campaign spend,marketing
+2022-04-10,-1764.91893937516,staff wage transfer,salary
+2025-11-19,1400.9656710646873,customer payment received,income
+2023-10-14,-366.2315558095884,internet bill,utilities
+2025-07-28,-973.1982730804273,flight ticket,travel
+2024-09-17,-872.2695788602299,social media ads,marketing
+2025-02-11,-562.6341062776095,hotel booking,travel
+2025-01-15,-1933.2364164715464,staff wage transfer,salary
+2022-10-12,-1907.1667371342037,employee payroll,salary
+2023-06-16,-294.88133309312354,electricity payment,utilities
+2023-11-13,-160.40750361730306,stationery purchase,office
+2023-12-29,-765.4650905927155,campaign spend,marketing
+2022-03-05,-286.74332208487294,water service charge,utilities
+2024-03-09,-775.4436374236399,campaign spend,marketing
+2022-08-14,-641.2799416407196,campaign spend,marketing
+2024-12-22,-334.35476927897975,electricity payment,utilities
+2024-09-24,-344.7450798822804,electricity payment,utilities
+2025-09-09,-135.14004225266018,stationery purchase,office
+2024-12-24,-689.2630507370213,flight ticket,travel
+2023-06-20,-2921.108893415174,building rent,rent
+2025-11-14,-1065.3351449828228,social media ads,marketing
+2023-08-24,-578.3102938504255,client visit transport,travel
+2023-04-22,-661.5226296099872,flight ticket,travel
+2025-08-15,-821.2804016862046,promotional expense,marketing
+2023-06-26,-190.72979972445336,office supplies,office
+2022-04-22,-1962.7342280181601,consultant salary,salary
+2023-11-18,-365.1152059386757,water service charge,utilities
+2025-03-08,-1334.9628156611748,consultant salary,salary
+2022-10-04,-660.1328040355318,flight ticket,travel
+2023-11-08,-313.90600643383124,water service charge,utilities
+2022-07-09,-256.59521929923,internet bill,utilities
+2024-09-29,-904.3655110238541,social media ads,marketing
+2023-11-27,-308.8201934030257,water service charge,utilities
+2023-04-28,623.9983416372519,customer payment received,income
+2022-11-28,-388.99870780652077,internet bill,utilities
+2024-04-04,-1870.6217132879285,staff wage transfer,salary
+2024-09-05,-2715.117228869917,monthly office rent,rent
+2025-10-05,-1073.6275549556867,promotional expense,marketing
+2023-10-01,-2479.842788878562,warehouse lease payment,rent
+2022-08-23,-2382.1221616360326,consultant salary,salary
+2025-05-01,-845.0193743457118,social media ads,marketing
+2024-07-09,-2354.8529764765963,monthly office rent,rent
+2024-10-20,-683.3629546975278,flight ticket,travel
+2022-05-23,-761.9750245763363,campaign spend,marketing
+2023-04-02,1279.5602634799566,customer payment received,income
+2025-01-26,-1926.3536045975588,staff wage transfer,salary
+2025-04-30,-2324.5675814088786,monthly office rent,rent
+2023-09-28,-145.61016060428503,office supplies,office
+2025-03-21,-1764.394070457289,staff wage transfer,salary
+2025-05-14,-789.4668667030953,social media ads,marketing
+2023-07-21,-1588.1340466444447,staff wage transfer,salary
+2025-08-05,-2173.4414611125103,monthly office rent,rent
+2023-02-26,-1144.0994463275506,promotional expense,marketing
+2022-12-16,-115.27141073967255,printer ink,office
+2024-09-24,-188.57593264866273,office supplies,office
+2024-07-19,-996.365632124526,social media ads,marketing
+2022-07-24,-1875.5127444058812,employee payroll,salary
+2025-05-01,263.5941122347409,customer payment received,income
+2022-10-20,-1041.3837647618143,campaign spend,marketing
+2025-03-21,-2015.501406593805,staff wage transfer,salary
+2022-01-11,-2353.579400479794,monthly office rent,rent
+2025-03-10,-138.83228172733354,printer ink,office
+2025-02-23,-1746.3837724159905,consultant salary,salary
+2025-02-14,-833.9331682433148,promotional expense,marketing
+2024-08-29,-2476.488136286232,warehouse lease payment,rent
+2023-11-20,-1770.9657713855188,staff wage transfer,salary
+2024-10-27,-1591.4142519526547,staff wage transfer,salary
+2023-02-09,-1650.1106658748956,staff wage transfer,salary
+2025-02-14,-1009.2320079670403,campaign spend,marketing
+2024-03-22,-148.47739669358904,printer ink,office
+2023-11-02,-145.65341445420304,printer ink,office
+2024-01-09,-602.1190835360458,campaign spend,marketing
+2024-04-10,-1685.9819648361529,consultant salary,salary
+2022-02-24,-125.95960348700329,office supplies,office
+2022-07-24,-454.52626248692263,flight ticket,travel
+2022-12-25,-739.694125631805,hotel booking,travel
+2022-06-17,-1007.8387755605526,promotional expense,marketing
+2023-10-05,-947.4558392443446,promotional expense,marketing
+2024-09-03,-130.95815859807607,printer ink,office
+2024-08-14,-666.4950424275247,flight ticket,travel
+2023-11-20,-709.9713576122306,hotel booking,travel
+2025-06-03,-944.8427515282657,promotional expense,marketing
+2024-04-05,-1693.5558346506516,employee payroll,salary
+2022-04-26,-1994.2600174142078,employee payroll,salary
+2025-01-22,-798.9813910257908,flight ticket,travel
+2024-04-19,-2148.7864915537048,monthly office rent,rent
+2024-07-16,-1765.612131572749,employee payroll,salary
+2024-04-06,-908.5736710491663,social media ads,marketing
+2024-03-19,-169.05174208989047,printer ink,office
+2022-05-13,-812.9350900450166,flight ticket,travel
+2024-03-28,-272.9568321885046,water service charge,utilities
+2025-03-07,-285.03604591060616,internet bill,utilities
+2023-03-21,-808.5395463176618,campaign spend,marketing
+2024-05-30,-778.1053973450416,hotel booking,travel
+2022-02-15,-2853.982571770751,monthly office rent,rent
+2023-05-23,-563.3783733915368,flight ticket,travel
+2023-10-01,-272.7752980944507,electricity payment,utilities
+2025-12-06,1209.7849501709204,customer payment received,income
+2022-11-10,-188.4575873379785,stationery purchase,office
+2023-02-09,-166.61347306973494,printer ink,office
+2023-08-20,-789.3360603501827,flight ticket,travel
+2025-12-21,-348.4912461421671,water service charge,utilities
+2025-05-31,-354.74716718802324,electricity payment,utilities
+2022-02-20,-1709.5385607648984,staff wage transfer,salary
+2022-12-08,-139.17685504281775,stationery purchase,office
+2025-04-15,-138.57610983813933,printer ink,office
+2022-03-27,-158.40170107853734,stationery purchase,office
+2025-06-04,-1227.2912812889099,consultant salary,salary
+2023-02-16,-2302.8708832086945,consultant salary,salary
+2025-09-02,-172.5534542797399,office supplies,office
+2023-03-05,-698.1798639391127,client visit transport,travel
+2023-09-27,-916.4437052472,promotional expense,marketing
+2024-08-25,-209.50832494197687,internet bill,utilities
+2022-07-04,822.2534205356764,customer payment received,income
+2024-03-24,-797.7627162339209,flight ticket,travel
+2024-01-08,-1034.8845603296866,campaign spend,marketing
+2025-02-19,-292.2146787156498,internet bill,utilities
+2025-12-26,-1150.6020615604516,promotional expense,marketing
+2024-08-28,-1796.2005376241536,employee payroll,salary
+2023-08-21,-309.6817124597008,internet bill,utilities
+2023-08-17,-162.13954159322566,printer ink,office
+2023-09-03,-153.9793318553879,stationery purchase,office
+2025-04-04,-136.3921893926122,printer ink,office
+2023-04-15,4357.98571010866,customer payment received,income
+2022-09-01,-160.26351441259555,printer ink,office
+2023-05-04,-140.1527473454781,printer ink,office
+2022-02-03,-159.76950974832494,stationery purchase,office
+2022-06-05,-2203.6024461376855,warehouse lease payment,rent
+2022-05-12,-725.6223271360791,promotional expense,marketing
+2025-02-01,-109.987779598804,printer ink,office
+2024-11-21,-898.123741740111,campaign spend,marketing
+2024-10-14,-1796.9550219129617,employee payroll,salary
+2023-11-06,-987.6504941473684,campaign spend,marketing
+2024-11-13,-3057.0857512116518,warehouse lease payment,rent
+2022-08-24,-334.5760046796561,electricity payment,utilities
+2025-08-08,-690.9706845214994,hotel booking,travel
+2024-01-03,-349.48462556299535,water service charge,utilities
+2025-10-02,-868.3697213491188,social media ads,marketing
+2022-08-11,-1643.593867743348,consultant salary,salary
+2023-12-28,-470.48430452614934,client visit transport,travel
+2024-10-14,-649.0664144582664,hotel booking,travel
+2023-12-26,-813.1439395310691,client visit transport,travel
+2023-10-14,-1372.6360493712,consultant salary,salary
+2022-08-31,-2049.339540581992,staff wage transfer,salary
+2023-07-11,-1810.5567087284694,employee payroll,salary
+2022-12-15,-304.0586586019825,internet bill,utilities
+2023-03-17,-732.0221879648755,flight ticket,travel
+2024-09-25,-244.6780927057453,internet bill,utilities
+2024-07-09,-362.7152617964777,water service charge,utilities
+2024-06-06,-1545.499722357056,consultant salary,salary
+2023-06-13,-1967.5400275751385,employee payroll,salary
+2025-11-03,-866.1275366933264,hotel booking,travel
+2022-05-09,-907.3850989746517,social media ads,marketing
+2023-05-16,-1485.268535731369,staff wage transfer,salary
+2022-06-22,337.3388193110051,customer payment received,income
+2023-05-11,-629.1098107110357,flight ticket,travel
+2025-11-06,-1520.877734656497,consultant salary,salary
+2023-06-20,-353.2102757492897,water service charge,utilities
+2025-08-20,-2407.493818895971,warehouse lease payment,rent
+2023-12-25,-2093.280103201058,warehouse lease payment,rent
+2024-10-19,-406.97807212784915,water service charge,utilities
+2023-10-31,-335.31506612201963,electricity payment,utilities
+2023-01-24,-926.3222846261713,campaign spend,marketing
+2025-01-21,-2320.8959763412113,monthly office rent,rent
+2025-11-16,-136.3098359303322,stationery purchase,office
+2023-01-21,-1857.8542344897055,staff wage transfer,salary
+2025-02-11,-2670.8054683205564,warehouse lease payment,rent
+2023-01-17,-843.790300001241,promotional expense,marketing
+2024-11-13,2098.840261005175,customer payment received,income
+2025-02-26,-604.618703786933,flight ticket,travel
+2023-10-19,-3648.917449867148,monthly office rent,rent
+2024-12-12,-2979.283136016926,monthly office rent,rent
+2023-02-02,761.9013176280484,customer payment received,income
+2022-04-26,-389.28644504080484,water service charge,utilities
+2022-05-21,-149.69949919026737,printer ink,office
+2023-10-16,-1501.666067981414,employee payroll,salary
+2025-08-11,3628.2419035418593,customer payment received,income
+2022-07-06,-141.83229192642338,stationery purchase,office
+2023-10-28,-1645.9635817914632,building rent,rent
+2024-10-25,-2135.8726240153046,warehouse lease payment,rent
+2022-10-23,-279.90023181244936,internet bill,utilities
+2024-11-20,579.8722079399997,customer payment received,income
+2023-03-24,-744.7935232212054,client visit transport,travel
+2025-03-27,-123.78874998326712,stationery purchase,office
+2024-04-26,-92.11835766818106,stationery purchase,office
+2024-03-10,-2002.500468787098,employee payroll,salary
+2022-09-16,-156.88767859034897,stationery purchase,office
+2023-11-08,-751.4733257540714,hotel booking,travel
+2025-06-05,-3536.0033146276537,building rent,rent
+2022-01-29,-159.78073815877053,office supplies,office
+2025-01-13,6449.810066838613,customer payment received,income
+2023-12-21,-496.7849757294435,flight ticket,travel
+2024-11-17,-725.7110775501417,campaign spend,marketing
+2024-08-27,-1729.4164885629086,consultant salary,salary
+2023-09-24,-1724.6047804379382,staff wage transfer,salary
+2023-03-27,-238.40469156433966,internet bill,utilities
+2024-07-05,-138.83728406800233,office supplies,office
+2022-07-24,-1701.0901079144883,staff wage transfer,salary
+2024-05-03,-657.476856512909,flight ticket,travel
+2022-05-19,-199.45261892110432,electricity payment,utilities
+2024-08-07,-2342.700665180032,warehouse lease payment,rent
+2024-07-07,2059.552255588337,customer payment received,income
+2022-05-04,2103.459862960521,customer payment received,income
+2025-01-11,-950.255813810523,flight ticket,travel
+2023-08-31,-2399.258049828224,employee payroll,salary
+2025-02-23,5017.409330009851,customer payment received,income
+2022-03-02,-255.0146691057605,internet bill,utilities
+2022-09-20,-794.7216695090103,flight ticket,travel
+2023-12-23,1663.5730901696838,customer payment received,income
+2022-10-02,-1809.0729287881584,employee payroll,salary
+2023-04-27,-691.1105655230598,flight ticket,travel
+2024-08-23,-1052.7923091512898,employee payroll,salary
+2022-07-31,-758.317688208452,social media ads,marketing
+2024-09-17,-786.068519640297,promotional expense,marketing
+2022-06-01,-719.9575256545783,hotel booking,travel
+2022-09-13,-3270.5354903782354,warehouse lease payment,rent
+2024-05-08,-131.7359465250787,stationery purchase,office
+2025-03-05,-2863.6751481681526,building rent,rent
+2022-09-07,-165.56481921755204,stationery purchase,office
+2023-03-15,-1936.739030558826,warehouse lease payment,rent
+2025-09-13,-631.5882348323843,hotel booking,travel
+2025-12-16,-2266.8995075796356,building rent,rent
+2024-04-28,-2425.916394052186,building rent,rent
+2023-10-16,-1059.9999183718628,social media ads,marketing
+2023-05-22,-879.7390474034218,social media ads,marketing
+2024-06-13,-2378.5036538979457,building rent,rent
+2024-05-13,-114.64494413814673,stationery purchase,office
+2023-03-07,-1376.1004090502843,staff wage transfer,salary
+2022-02-03,-1895.1115594364378,staff wage transfer,salary
+2022-08-10,-1670.3097401120276,staff wage transfer,salary
+2025-11-01,-233.39553583287378,electricity payment,utilities
+2023-09-03,-1497.7627662604373,staff wage transfer,salary
+2023-12-06,-339.7439834019806,electricity payment,utilities
+2023-11-14,-1586.9948714865254,staff wage transfer,salary
+2025-02-17,5072.439895609325,customer payment received,income
+2022-04-05,-305.1650077050865,water service charge,utilities
+2022-05-01,-947.8841358995564,social media ads,marketing
+2023-02-08,-1229.298701207303,social media ads,marketing
+2023-12-13,-331.4559833896767,internet bill,utilities
+2024-09-07,-1788.4896234018083,employee payroll,salary
+2023-12-18,-936.9500394353987,promotional expense,marketing
+2023-10-07,-793.304021459065,promotional expense,marketing
+2025-10-02,-969.7969203688386,campaign spend,marketing
+2022-08-24,-134.60914695485891,stationery purchase,office
+2024-04-15,-1117.188905751446,promotional expense,marketing
+2024-03-03,-134.95750477672345,printer ink,office
+2023-11-23,685.424612456809,customer payment received,income
+2025-03-25,-388.23805193112895,electricity payment,utilities
+2023-01-26,-2248.1697279833156,employee payroll,salary
+2025-10-25,-1716.6241952509952,consultant salary,salary
+2023-04-30,-1056.5783035785403,campaign spend,marketing
+2024-03-07,-959.6578523057582,campaign spend,marketing
+2024-01-31,-986.9681138021705,campaign spend,marketing
+2025-05-26,-1641.0501148819094,consultant salary,salary
+2023-10-04,-255.89141077476802,electricity payment,utilities
+2023-02-20,-1724.0832452762606,employee payroll,salary
+2022-02-01,-169.48364738622644,office supplies,office
+2023-06-16,-2244.8240007428085,employee payroll,salary
+2025-04-22,-2632.9703302192593,monthly office rent,rent
+2022-01-15,-949.080530446669,hotel booking,travel
+2025-08-02,-170.27326565823643,office supplies,office
+2024-03-04,-114.54725417616015,stationery purchase,office
+2022-07-24,-3040.5065499002703,monthly office rent,rent
+2023-03-18,-1500.3081963614611,consultant salary,salary
+2024-03-20,-2779.3686020221157,warehouse lease payment,rent
+2023-04-07,-1970.663172158406,staff wage transfer,salary
+2022-06-08,-944.3454786792576,hotel booking,travel
+2024-08-31,-2302.5222948165,consultant salary,salary
+2024-09-09,-1918.7910377015778,warehouse lease payment,rent
+2022-06-23,-745.7516592575076,client visit transport,travel
+2023-02-15,-2074.8290227884954,monthly office rent,rent
+2022-12-23,-1231.1411220149005,staff wage transfer,salary
+2024-08-21,-2506.313771400035,building rent,rent
+2024-12-02,-1816.729291996434,building rent,rent
+2024-11-28,-253.758851825078,internet bill,utilities
+2025-10-03,-172.9120994781283,office supplies,office
+2025-01-27,-932.753571399037,campaign spend,marketing
+2023-04-14,-2859.254350262961,warehouse lease payment,rent
+2022-06-07,-3128.492029838652,monthly office rent,rent
+2024-06-16,-344.2395867446224,internet bill,utilities
+2025-08-31,-595.4683705429184,hotel booking,travel
+2025-11-25,-917.514387430448,promotional expense,marketing
+2022-12-03,-822.8915010507086,promotional expense,marketing
+2022-12-12,-343.7228447855832,electricity payment,utilities
+2022-02-24,-1578.7773637938683,employee payroll,salary
+2022-07-26,-1523.6401379685963,monthly office rent,rent
+2024-03-21,-2671.7806756255477,monthly office rent,rent
+2024-03-09,-2211.6377981598453,warehouse lease payment,rent
+2023-06-26,-162.039460950976,office supplies,office
+2023-03-29,-1908.8539227711133,consultant salary,salary
+2025-04-27,-1011.7238724991793,promotional expense,marketing
+2023-11-04,-743.1060687415766,client visit transport,travel
+2025-03-26,-595.4264380936629,hotel booking,travel
+2025-11-08,-327.2069377280793,water service charge,utilities
+2023-04-09,2263.109599852402,customer payment received,income
+2022-10-24,-2972.2799000148,monthly office rent,rent
+2025-10-24,-2557.979034482466,building rent,rent
+2024-07-16,557.8694525822995,customer payment received,income
+2023-03-02,-334.83386482419223,electricity payment,utilities
+2024-06-27,-746.2533253890393,hotel booking,travel
+2024-01-23,-810.6370754268803,campaign spend,marketing
+2025-08-15,1528.4290200358805,customer payment received,income
+2023-01-09,-1916.9728172882158,staff wage transfer,salary
+2025-12-19,-1711.5084531129737,employee payroll,salary
+2025-09-29,-1022.5283633235811,promotional expense,marketing
+2022-09-22,3201.0952682628413,customer payment received,income
+2022-08-29,-677.7700526620873,hotel booking,travel
+2024-02-18,-619.974329594338,hotel booking,travel
+2022-03-07,-654.7688555210858,social media ads,marketing
+2023-03-13,-1018.9671904038668,social media ads,marketing
+2023-09-28,-301.612113599968,water service charge,utilities
+2025-11-17,-1827.0803702097203,staff wage transfer,salary
+2025-12-20,-295.1802736495738,electricity payment,utilities
+2022-08-10,-261.8418565441335,electricity payment,utilities
+2025-07-26,-1800.6075660161225,consultant salary,salary
+2022-05-13,-614.3918124219786,hotel booking,travel
+2024-12-29,-1593.1920277639172,employee payroll,salary
+2025-05-20,-780.009110001834,hotel booking,travel
+2025-07-25,-601.5634815519127,campaign spend,marketing
+2022-11-23,-152.7468874793563,office supplies,office
+2025-07-29,-2705.5273499668087,building rent,rent
+2022-06-19,-733.6968568709441,promotional expense,marketing
+2024-01-29,-2406.657400496864,monthly office rent,rent
+2023-11-18,-254.60992398203223,water service charge,utilities
+2023-04-07,-1471.2141993881933,employee payroll,salary
+2022-02-02,-2155.2161212573806,monthly office rent,rent
+2025-02-01,-1703.1250573453112,staff wage transfer,salary
+2023-05-06,-2160.527724439767,monthly office rent,rent
+2024-08-24,-981.1972095604658,campaign spend,marketing
+2023-08-23,-1859.962134842885,warehouse lease payment,rent
+2023-06-30,-263.78037453619294,electricity payment,utilities
+2025-07-18,-883.2950980544623,campaign spend,marketing
+2022-05-19,-149.75288491689597,printer ink,office
+2024-12-12,-117.69013460022643,printer ink,office
+2024-12-27,-3141.802434898922,warehouse lease payment,rent
+2023-07-10,-154.84300027296348,office supplies,office
+2023-01-19,-722.4486704942453,client visit transport,travel
+2022-01-08,-2286.1292467682288,consultant salary,salary
+2025-09-30,-269.2923370584243,internet bill,utilities
+2025-10-16,-151.57528932328802,printer ink,office
+2022-12-19,-251.29416315937192,electricity payment,utilities
+2022-02-16,-1946.335518061072,employee payroll,salary
+2022-06-29,372.1129899120661,customer payment received,income
+2022-04-09,-144.49465667653462,printer ink,office
+2025-04-29,-153.936780826069,office supplies,office
+2025-07-27,-126.47309729529152,office supplies,office
+2022-08-12,-186.49331535367972,office supplies,office
+2024-12-26,-272.35019446983864,water service charge,utilities
+2022-09-19,-1670.334888821823,staff wage transfer,salary
+2023-06-21,-657.1885211901059,client visit transport,travel
+2024-05-25,-1587.379669815908,staff wage transfer,salary
+2024-11-17,-302.05011570395436,electricity payment,utilities
+2025-07-01,-732.748587786817,flight ticket,travel
+2022-03-07,-104.53560677754379,office supplies,office
+2022-10-14,-1665.0572118401342,employee payroll,salary
+2023-02-14,-2253.359815458404,employee payroll,salary
+2023-03-30,-958.5397104958154,promotional expense,marketing
+2025-12-29,-3281.8856112549543,monthly office rent,rent
+2025-02-09,-739.9039965301806,client visit transport,travel
+2023-04-14,-1183.392856245768,social media ads,marketing
+2025-11-20,-549.3243513111618,flight ticket,travel
+2023-12-31,-232.94440459665427,water service charge,utilities
+2024-01-02,-893.7821512920895,promotional expense,marketing
+2023-09-26,-240.23295205968913,electricity payment,utilities
+2022-07-30,-746.9682251117906,social media ads,marketing
+2025-09-27,-342.369192100341,internet bill,utilities
+2022-01-21,-2335.1814458907143,warehouse lease payment,rent
+2022-09-12,-890.009781736309,flight ticket,travel
+2022-12-02,-1647.628065257729,monthly office rent,rent
+2023-02-13,-135.6014362694822,printer ink,office
+2022-07-12,-680.793953336486,hotel booking,travel
+2022-01-27,-303.29482457927196,water service charge,utilities
+2024-09-17,-336.7121991592995,electricity payment,utilities
+2025-11-17,-801.1963946596109,hotel booking,travel
+2022-06-27,-1429.4675674260402,employee payroll,salary
+2023-03-10,-2067.5987052085848,staff wage transfer,salary
+2024-01-10,-303.91319890227095,water service charge,utilities
+2025-09-17,-1708.2516848875837,employee payroll,salary
+2024-10-11,-765.762686803217,promotional expense,marketing
+2025-01-24,-2468.980674301304,warehouse lease payment,rent
+2024-04-29,-858.2292666324101,promotional expense,marketing
+2023-09-02,-271.91170773887103,internet bill,utilities
+2022-10-19,-473.34080387599244,client visit transport,travel
+2025-06-16,-2323.8156537981376,monthly office rent,rent
+2025-03-20,-372.3683615045194,water service charge,utilities
+2022-02-06,-1011.0647731156787,promotional expense,marketing
+2024-11-11,-1722.5393980609967,staff wage transfer,salary
+2022-05-04,-3217.6674005608475,warehouse lease payment,rent
+2024-12-15,-757.0971944570359,flight ticket,travel
+2025-04-21,-1970.756130296233,building rent,rent
+2022-07-11,-1744.729194774457,consultant salary,salary
+2023-09-26,371.80057075560893,customer payment received,income
+2022-06-30,-804.2489148225636,hotel booking,travel
+2024-04-08,-720.6323341418013,hotel booking,travel
+2025-09-17,1886.2446736052718,customer payment received,income
+2022-04-29,-187.53077849750468,stationery purchase,office
+2023-08-04,7665.181997140418,customer payment received,income
+2025-11-22,-317.65017058141274,electricity payment,utilities
+2023-03-16,-2754.617242881993,warehouse lease payment,rent
+2022-07-13,-2502.8377362366814,monthly office rent,rent
+2023-12-15,-2008.2321448833525,consultant salary,salary
+2024-01-13,-525.9755073755879,flight ticket,travel
+2024-08-26,-165.36956553566642,printer ink,office
+2023-04-04,1193.9807111865368,customer payment received,income
+2025-10-28,-757.9625965462155,flight ticket,travel
+2024-02-01,-920.9429727093801,promotional expense,marketing
+2023-02-23,-1404.1252387010659,staff wage transfer,salary
+2025-11-03,-168.37784653358077,stationery purchase,office
+2025-09-13,-147.97147137747962,stationery purchase,office
+2023-12-31,-2869.840041443724,warehouse lease payment,rent
+2022-02-06,-299.7604712796735,electricity payment,utilities
+2024-05-22,1814.6111835957724,customer payment received,income
+2024-03-22,-269.05417201807506,water service charge,utilities
+2022-08-05,-122.83293686299798,printer ink,office
+2024-07-15,349.6628600129001,customer payment received,income
+2025-05-13,-270.1068464074964,water service charge,utilities
+2022-06-04,-2279.259943098474,building rent,rent
+2024-11-22,-303.95579193161467,water service charge,utilities
+2022-07-25,-2058.3459124775045,staff wage transfer,salary
+2024-12-30,-234.8823586786004,electricity payment,utilities
+2023-09-05,-527.7628201406774,client visit transport,travel
+2022-01-10,-323.113631732171,electricity payment,utilities
+2025-11-12,-1153.9772847850747,consultant salary,salary
+2022-08-31,-2085.494421059085,employee payroll,salary
+2024-05-20,-878.0605992440576,social media ads,marketing
+2022-09-23,-2017.5287007672875,building rent,rent
+2025-09-25,-1805.590718308683,employee payroll,salary
+2024-12-14,-163.18315973516067,printer ink,office
+2025-03-21,-2856.451077694653,monthly office rent,rent
+2023-09-24,-308.0973039547488,water service charge,utilities
+2023-11-14,-2072.2433992940505,staff wage transfer,salary
+2024-07-15,-2762.5315111172085,warehouse lease payment,rent
+2025-02-20,-364.2966945401825,internet bill,utilities
+2025-05-22,-744.3689031938684,flight ticket,travel
+2022-01-27,-1907.8782142288758,employee payroll,salary
+2024-08-27,-2601.7661848493967,building rent,rent
+2022-06-09,-2745.903798412118,monthly office rent,rent
+2023-02-25,-627.4384305839778,flight ticket,travel
+2025-04-26,-160.4485588243976,printer ink,office
+2023-01-01,5310.378453036637,customer payment received,income
+2025-03-10,-1701.3184168396037,employee payroll,salary
+2023-11-08,-229.53992109585357,internet bill,utilities
+2022-12-06,591.2780155794262,customer payment received,income
+2023-05-04,-1677.421179509321,consultant salary,salary
+2024-02-15,-2583.0985637492886,monthly office rent,rent
+2025-01-22,941.6796399534982,customer payment received,income
+2024-06-04,-366.84926217850233,water service charge,utilities
+2025-09-25,-293.6473941525312,water service charge,utilities
+2025-06-21,-1864.7381734812698,consultant salary,salary
+2025-01-05,-121.04604909047619,stationery purchase,office
+2024-05-31,-834.3471635709593,client visit transport,travel
+2023-02-28,-346.441451032271,electricity payment,utilities
+2023-08-26,-1898.7435321244766,staff wage transfer,salary
+2022-06-23,-711.1165884710282,campaign spend,marketing
+2023-07-01,-138.85635871345656,office supplies,office
+2025-09-15,4885.199180880711,customer payment received,income
+2023-09-15,-169.39460299455095,printer ink,office
+2022-06-16,-784.2766022698573,campaign spend,marketing
+2024-08-10,-2186.7336272866632,monthly office rent,rent
+2025-11-07,-739.8707622139578,campaign spend,marketing
+2025-06-21,-2566.079897110741,warehouse lease payment,rent
+2023-02-05,-2349.8837843838724,building rent,rent
+2023-10-26,-2386.653168067952,building rent,rent
+2024-02-15,-305.10092990279134,internet bill,utilities
+2022-12-29,-625.8140861457281,client visit transport,travel
+2023-01-28,-303.36460147041277,electricity payment,utilities
+2022-12-12,-2553.0260015595168,warehouse lease payment,rent
+2025-12-24,-1781.7600192981774,employee payroll,salary
+2024-12-25,-146.35681423608597,stationery purchase,office
+2025-05-13,-126.61419648933256,office supplies,office
+2025-04-08,-876.2804384177452,social media ads,marketing
+2025-11-02,-2016.2763630181596,monthly office rent,rent
+2022-06-03,-875.7476980946927,social media ads,marketing
+2025-07-12,2572.4786821464863,customer payment received,income
+2022-04-08,-795.0047878375143,hotel booking,travel
+2023-11-26,7056.044375318709,customer payment received,income
+2024-05-18,415.5775318367535,customer payment received,income
+2023-06-07,-352.63245011154726,internet bill,utilities
+2022-08-02,-1852.2181425144622,building rent,rent
+2022-10-08,4772.803834630146,customer payment received,income
+2025-04-19,-318.1252323497808,electricity payment,utilities
+2023-04-11,-2854.1585794011594,building rent,rent
+2023-03-30,-1136.274226451129,staff wage transfer,salary
+2025-09-11,-237.3568085561585,electricity payment,utilities
+2022-07-30,-135.42958268111207,stationery purchase,office
+2025-08-30,-2811.821039749891,monthly office rent,rent
+2025-09-07,-592.9513536452139,flight ticket,travel
+2024-05-24,-123.89791095052011,office supplies,office
+2022-08-30,-963.4318086446423,social media ads,marketing
+2022-08-16,-153.7524540150447,stationery purchase,office
+2023-02-20,-2084.0401942252693,staff wage transfer,salary
+2024-04-23,-847.1480349580055,campaign spend,marketing
+2022-08-13,-186.42911595265872,stationery purchase,office
+2023-10-28,-1769.2536975816568,staff wage transfer,salary
+2022-06-18,-353.89147300653707,electricity payment,utilities
+2024-02-29,-632.9302649240224,client visit transport,travel
+2022-01-31,-266.243328154545,internet bill,utilities
+2024-11-01,-1564.566615075868,staff wage transfer,salary
+2022-03-22,-186.38158650371128,office supplies,office
+2022-10-12,-162.0041893278648,stationery purchase,office
+2022-09-13,-324.3901756586687,electricity payment,utilities
+2025-04-29,-993.6958487207817,campaign spend,marketing
+2022-03-19,-221.13086004520773,water service charge,utilities
+2023-09-20,-788.5286584075832,campaign spend,marketing
+2024-05-13,1160.8206273986652,customer payment received,income
+2024-01-24,-274.04812373054693,electricity payment,utilities
+2024-09-21,-2561.4115390458255,warehouse lease payment,rent
+2025-03-19,-744.8942582821732,hotel booking,travel
+2023-07-30,-1649.9037515491505,consultant salary,salary
+2025-04-25,-1925.2261191648872,consultant salary,salary
+2023-04-10,-2072.9346078212056,consultant salary,salary
+2025-12-09,-116.14859883174239,office supplies,office
+2024-01-08,-2312.0929627665755,monthly office rent,rent
+2024-12-11,-756.0930199846769,campaign spend,marketing
+2025-07-02,-147.87442518405814,stationery purchase,office
+2025-03-04,-2495.949218178994,warehouse lease payment,rent
+2025-05-28,-760.5533413373877,hotel booking,travel
+2024-02-23,-747.195760125819,hotel booking,travel
+2022-03-05,-304.88414847083203,internet bill,utilities
+2023-12-22,-1006.0824963666744,campaign spend,marketing
+2022-09-23,-250.48331936862496,electricity payment,utilities
+2025-07-22,-269.59770150759846,water service charge,utilities
+2022-12-12,-311.5884539509406,electricity payment,utilities
+2022-11-30,-822.5960665266524,campaign spend,marketing
+2022-12-31,-727.2594732913063,flight ticket,travel
+2024-07-27,-256.3587980673715,water service charge,utilities
+2024-04-14,-172.09297153389306,printer ink,office
+2025-10-18,-1015.4960711426577,social media ads,marketing
+2023-09-01,-111.16202156993603,stationery purchase,office
+2023-02-17,-1158.6012972033143,social media ads,marketing
+2022-03-13,-361.9219499207917,internet bill,utilities
+2022-01-11,-985.6346841259486,social media ads,marketing
+2023-06-30,-1913.5372527279605,employee payroll,salary
+2025-09-14,-1944.1249037079863,consultant salary,salary
+2024-02-05,-324.08650049837604,internet bill,utilities
+2025-07-29,-182.90529115921845,stationery purchase,office
+2022-05-29,-620.9484224493675,hotel booking,travel
+2022-05-17,-262.0571560489799,internet bill,utilities
+2025-05-02,-286.5486831337132,internet bill,utilities
+2022-06-05,-1617.4857089321306,consultant salary,salary
+2022-03-17,-699.0368089408764,flight ticket,travel
+2023-08-14,-305.2319990389665,water service charge,utilities
+2025-09-13,-497.9279161136798,client visit transport,travel
+2024-10-04,-374.89603769985905,electricity payment,utilities
+2022-05-25,-2047.1109447113975,staff wage transfer,salary
+2025-05-08,-127.93485087763293,printer ink,office
+2025-05-17,-344.8060602078813,internet bill,utilities
+2025-03-15,-2315.024577310338,monthly office rent,rent
+2025-08-11,-275.0551497915424,electricity payment,utilities
+2022-12-17,-675.7794082500343,hotel booking,travel
+2025-12-02,-2471.7251713202268,building rent,rent
+2023-04-14,-1845.325998745104,employee payroll,salary
+2025-03-17,-2282.3515131780237,building rent,rent
+2024-04-26,-623.1595935963068,hotel booking,travel
+2025-02-12,-1041.110475488794,campaign spend,marketing
+2024-07-06,-162.77374822318578,printer ink,office
+2024-07-27,-264.62103291061885,electricity payment,utilities
+2024-06-19,-128.04035886838383,stationery purchase,office
+2025-02-12,-1413.651864917425,employee payroll,salary
+2024-12-15,-715.2566318417075,promotional expense,marketing
+2022-07-16,2287.5688401707666,customer payment received,income
+2025-04-21,-687.3241523262021,campaign spend,marketing
+2024-02-23,-882.9676984818184,social media ads,marketing
+2023-04-18,-735.6585276886897,hotel booking,travel
+2024-01-22,-2196.5326461851287,employee payroll,salary
+2025-11-13,-633.5488260264848,hotel booking,travel
+2025-06-06,-486.9632840854288,campaign spend,marketing
+2025-05-03,-174.43665560878077,printer ink,office
+2023-11-08,-138.52187889869757,printer ink,office
+2025-02-19,-1387.0853606788303,staff wage transfer,salary
+2023-07-17,-639.9145458803362,client visit transport,travel
+2024-09-29,6376.762288262622,customer payment received,income
+2024-07-23,-1044.9381234335715,social media ads,marketing
+2022-12-31,394.82388836017344,customer payment received,income
+2023-01-25,-3341.0603581039127,monthly office rent,rent
+2022-03-31,-838.8305764391821,flight ticket,travel
+2022-07-24,-168.70393130889923,office supplies,office
+2023-09-26,-141.08080870034098,office supplies,office
+2023-11-30,-259.77905643290444,electricity payment,utilities
+2022-08-30,-2217.8561002327456,monthly office rent,rent
+2023-09-02,-150.04316400020372,office supplies,office
+2024-06-01,-143.17199473162492,stationery purchase,office
+2022-12-06,-685.1260467739423,client visit transport,travel
+2023-05-10,-158.93687197313417,office supplies,office
+2023-06-21,6771.236022812485,customer payment received,income
+2024-01-08,-655.7302328594678,hotel booking,travel
+2023-06-20,-2748.6901564887867,monthly office rent,rent
+2024-12-12,-164.90050843480333,office supplies,office
+2023-04-24,-767.856418932978,social media ads,marketing
+2023-09-26,-148.23110243553478,office supplies,office
+2023-07-09,-615.1024862917881,hotel booking,travel
+2022-09-25,-2710.16830367289,monthly office rent,rent
+2024-09-28,-2117.0416415428253,warehouse lease payment,rent
+2022-12-10,-324.1693645304751,internet bill,utilities
+2023-03-10,-894.440697252861,campaign spend,marketing
+2025-03-04,-2071.5290414537067,building rent,rent
+2025-10-18,-176.98013533826767,printer ink,office
+2024-09-07,-1653.1532088897113,staff wage transfer,salary
+2025-08-31,-215.043421281174,water service charge,utilities
+2025-06-01,-1800.3023249394303,employee payroll,salary
+2023-12-04,-283.9185762529947,electricity payment,utilities
+2025-01-30,-212.49309934828972,water service charge,utilities
+2023-04-25,-1813.392141716288,warehouse lease payment,rent
+2023-11-04,-807.0748194650537,hotel booking,travel
+2024-02-22,-997.4692628644561,social media ads,marketing
+2025-11-04,-144.9534885131192,stationery purchase,office
+2025-05-24,4308.943731302432,customer payment received,income
+2023-12-16,-165.21555069068134,stationery purchase,office
+2024-08-11,-131.98381976243274,stationery purchase,office
+2022-10-23,-143.77155609005652,stationery purchase,office
+2025-03-21,-314.0237745277374,electricity payment,utilities
+2024-03-18,-166.78762086621134,office supplies,office
+2024-02-18,-576.2905904541956,client visit transport,travel
+2025-01-24,-2103.855405238419,warehouse lease payment,rent
+2024-07-13,-2539.6739430181597,consultant salary,salary
+2022-04-16,-1138.5398562475573,social media ads,marketing
+2023-02-25,6084.718982488344,customer payment received,income
+2022-09-16,578.2104823911828,customer payment received,income
+2024-12-09,-729.2034073590759,social media ads,marketing
+2022-02-21,7083.564957342087,customer payment received,income
+2022-10-23,-305.94455457659063,internet bill,utilities
+2024-05-22,-1738.6660444353843,consultant salary,salary
+2024-10-12,-655.6409204550912,client visit transport,travel
+2024-01-06,-1603.9721610794318,staff wage transfer,salary
+2025-06-11,283.7731299249225,customer payment received,income
+2025-09-04,-2216.926790322234,warehouse lease payment,rent
+2022-07-13,-157.3826813519987,stationery purchase,office
+2025-10-23,-1239.6728514293234,campaign spend,marketing
+2024-06-16,-172.90764625917043,printer ink,office
+2024-07-18,-138.04747735666692,printer ink,office
+2022-05-19,-1750.2209890625707,employee payroll,salary
+2024-06-27,-106.10377163954942,stationery purchase,office
+2024-11-26,-702.880502189291,hotel booking,travel
+2024-04-28,-143.15020073668916,printer ink,office
+2022-05-04,-149.36264823563383,stationery purchase,office
+2024-02-04,-867.9946800788562,flight ticket,travel
+2025-09-29,-330.6726548638695,water service charge,utilities
+2024-11-22,-1738.2249382080613,building rent,rent
+2022-07-20,-2114.4799129753064,monthly office rent,rent
+2025-11-03,-302.3986291046019,water service charge,utilities
+2025-11-01,-978.8439599849711,campaign spend,marketing
+2022-09-05,-687.4919874165408,hotel booking,travel
+2025-03-16,-335.2916329011831,electricity payment,utilities
+2023-08-18,-1833.7619922821686,staff wage transfer,salary
+2024-05-17,-458.53527269044196,client visit transport,travel
+2023-10-13,-709.42173084072,hotel booking,travel
+2025-02-17,-154.401502443173,stationery purchase,office
+2025-12-27,-864.9961683927875,campaign spend,marketing
+2025-03-07,-746.9426221461258,hotel booking,travel
+2025-09-22,-145.26296990724194,office supplies,office
+2025-10-14,-290.0107750045678,internet bill,utilities
+2022-05-12,-118.86629187315752,office supplies,office
+2023-01-06,-226.76693972408913,electricity payment,utilities
+2024-11-20,-2522.1408314893956,monthly office rent,rent
+2024-05-12,-321.84282913113555,electricity payment,utilities
+2022-03-15,-2787.4231878241258,warehouse lease payment,rent
+2022-05-19,2864.2766580864095,customer payment received,income
+2024-01-31,-131.5624296160973,stationery purchase,office
+2024-06-19,-731.3819359220781,social media ads,marketing
+2022-09-03,-1614.3231100181988,consultant salary,salary
+2022-09-08,-184.826238736648,office supplies,office
+2022-07-08,-2599.5100406178453,warehouse lease payment,rent
+2024-04-05,-2332.8943226303227,consultant salary,salary
+2022-01-12,-756.8558273547413,promotional expense,marketing
+2024-04-16,-1600.2995746536283,employee payroll,salary
+2023-11-27,-581.4307888655023,social media ads,marketing
+2023-11-12,-159.475942109786,printer ink,office
+2024-09-19,-2455.5009363535014,warehouse lease payment,rent
+2024-02-03,-2712.517384491306,monthly office rent,rent
+2024-11-29,-164.19663593547293,office supplies,office
+2025-01-21,1223.9835752161687,customer payment received,income
+2025-09-06,-914.6964676155062,hotel booking,travel
+2025-03-13,-232.44438612777554,water service charge,utilities
+2024-01-27,-281.9132272614534,internet bill,utilities
+2023-12-21,-923.0053037267226,social media ads,marketing
+2022-12-11,-698.6101493558247,client visit transport,travel
+2024-05-26,-3009.3487730720462,building rent,rent
+2022-07-23,-788.2996595603981,client visit transport,travel
+2025-09-22,-913.4776683668858,promotional expense,marketing
+2025-05-19,-2285.552806511234,warehouse lease payment,rent
+2022-06-24,-283.92920956779056,internet bill,utilities
+2025-02-22,-752.6362113840412,social media ads,marketing
+2022-06-21,-685.3932673250329,client visit transport,travel
+2024-11-19,-2535.956350962239,warehouse lease payment,rent
+2022-05-09,-2526.9994721649205,building rent,rent
+2023-12-15,1324.7556181278983,customer payment received,income
+2024-08-19,-340.04117952067844,electricity payment,utilities
+2024-11-30,-161.0755594972212,office supplies,office
+2023-09-04,-739.2189697039889,flight ticket,travel
+2025-09-08,-139.08067613107934,office supplies,office
+2025-02-05,-1559.974541290745,employee payroll,salary
+2022-11-01,-235.93982374807354,internet bill,utilities
+2024-09-07,-2850.339649055485,monthly office rent,rent
+2024-12-03,1583.2412858967355,customer payment received,income
+2023-05-03,-1921.817346454642,employee payroll,salary
+2024-12-14,-351.22470271324244,internet bill,utilities
+2025-08-05,-321.35308201285676,electricity payment,utilities
+2025-04-08,-1981.3988897355255,staff wage transfer,salary
+2025-01-19,3147.996170674045,customer payment received,income
+2024-07-16,-679.0800056688299,hotel booking,travel
+2023-01-31,-146.1635658145579,office supplies,office
+2025-03-07,-1878.317758963058,employee payroll,salary
+2023-06-17,-288.4578609700407,electricity payment,utilities
+2024-02-17,-1682.4814315638127,consultant salary,salary
+2023-04-05,-1014.1182627719718,promotional expense,marketing
+2023-04-03,-261.3429273820019,electricity payment,utilities
+2022-08-19,-185.3496992078389,printer ink,office
+2025-11-05,3087.1462947860027,customer payment received,income
+2022-08-04,-2821.4411514165363,building rent,rent
+2022-05-07,-700.938056128657,flight ticket,travel
+2025-09-29,-832.1746782668554,hotel booking,travel
+2024-03-21,-126.41933450361182,printer ink,office
+2023-10-02,-174.94806693610587,stationery purchase,office
+2024-12-13,-144.83714179968533,office supplies,office
+2023-07-15,-749.4362740664313,flight ticket,travel
+2022-07-06,-266.73032884462935,water service charge,utilities
+2024-12-02,-340.74143457068243,water service charge,utilities
+2022-09-15,-2442.220002944174,monthly office rent,rent
+2024-03-18,-244.28278643295675,water service charge,utilities
+2025-10-18,-329.92777741627305,internet bill,utilities
+2025-09-29,-2794.053360051403,monthly office rent,rent
+2023-06-12,-1306.923476335164,staff wage transfer,salary
+2025-02-14,-560.5097248668683,hotel booking,travel
+2024-06-14,-329.5418748068426,internet bill,utilities
+2023-12-02,-136.6952836008191,office supplies,office
+2022-07-24,-345.72074382336996,electricity payment,utilities
+2023-07-04,-132.42342288246581,stationery purchase,office
+2024-08-10,-589.4723361503661,client visit transport,travel
+2025-12-12,-2483.2531446387,monthly office rent,rent
+2022-01-08,-1595.2446811861023,staff wage transfer,salary
+2024-11-14,-1074.6231560106808,social media ads,marketing
+2025-05-21,-785.362272587219,flight ticket,travel
+2025-10-21,-1471.8197475456227,employee payroll,salary
+2023-09-12,-530.321845462985,flight ticket,travel
+2022-06-23,-143.5359578766818,office supplies,office
+2023-01-31,720.6304260504741,customer payment received,income
+2025-05-27,-2557.46161009683,monthly office rent,rent
+2025-07-06,-2022.5152947616587,consultant salary,salary
+2024-07-19,-142.49514723818538,office supplies,office
+2022-06-29,-874.9557036110596,social media ads,marketing
+2022-06-28,-137.71248380491994,printer ink,office
+2023-11-30,-144.5405038952131,printer ink,office
+2024-05-09,-2516.0061610853036,building rent,rent
+2022-02-17,-1688.519323289952,staff wage transfer,salary
+2024-09-29,-2361.360277885326,building rent,rent
+2024-03-06,-2249.3433680177463,building rent,rent
+2022-01-18,-148.83377777266094,printer ink,office
+2022-05-20,-164.0310564666606,stationery purchase,office
+2023-10-26,6300.72623704244,customer payment received,income
+2024-11-21,-729.120385102515,social media ads,marketing
+2025-04-20,-643.5694453061296,client visit transport,travel
+2023-09-23,-1760.4265180210698,building rent,rent
+2023-03-08,-81.78534566001073,stationery purchase,office
+2025-11-15,-155.11941184567246,office supplies,office
+2023-11-01,-741.7666809637219,flight ticket,travel
+2023-04-06,-849.7360493918588,campaign spend,marketing
+2023-10-09,-305.12623768738877,water service charge,utilities
+2022-01-18,-660.1428206391213,social media ads,marketing
+2023-03-18,-287.82815762504106,internet bill,utilities
+2024-01-24,-170.45244812655864,printer ink,office
+2025-09-03,-2550.260207803512,monthly office rent,rent
+2024-12-14,-1964.2247269210675,employee payroll,salary
+2025-02-15,-89.88532395547458,printer ink,office
+2024-03-07,-1871.1388575483395,consultant salary,salary
+2022-06-11,-1988.5197941277945,employee payroll,salary
+2023-07-26,-906.9616583292889,campaign spend,marketing
+2025-12-27,-1650.2049391341654,staff wage transfer,salary
+2022-03-06,-628.9554720634649,client visit transport,travel
+2025-07-08,-1708.0810802545827,employee payroll,salary
+2024-09-27,-2036.5360553098562,staff wage transfer,salary
+2023-02-19,-170.64845192625583,office supplies,office
+2025-02-10,-2120.864990741533,staff wage transfer,salary
+2025-05-07,-2241.770612132917,warehouse lease payment,rent
+2022-03-05,-768.1501750529525,campaign spend,marketing
+2022-06-05,-132.5218267755342,office supplies,office
+2024-08-30,-3160.4835267409544,warehouse lease payment,rent
+2025-12-30,-876.088822949321,campaign spend,marketing
+2022-02-05,-634.1534919843376,client visit transport,travel
+2024-08-30,-1033.2524458624798,social media ads,marketing
+2022-07-19,-3061.7649157716423,building rent,rent
+2024-08-07,-137.28936117135947,stationery purchase,office
+2024-06-29,1264.8082895823827,customer payment received,income
+2022-05-13,-172.07473576803483,stationery purchase,office
+2024-09-21,-332.54560586733777,internet bill,utilities
+2025-08-03,-180.64614369418467,printer ink,office
+2025-06-15,1804.8390700899508,customer payment received,income
+2022-02-12,-2467.654811415623,monthly office rent,rent
+2022-12-26,-176.56337264445352,stationery purchase,office
+2022-12-18,-757.0953698208549,social media ads,marketing
+2023-10-25,4164.632696860597,customer payment received,income
+2022-07-28,-592.4005429561689,hotel booking,travel
+2025-06-02,-318.82207756637143,electricity payment,utilities
+2025-02-08,-577.8329394978202,client visit transport,travel
+2025-03-26,-156.88954677685982,stationery purchase,office
+2022-10-17,-140.34827869963803,stationery purchase,office
+2022-01-22,-1892.568056285656,consultant salary,salary
+2025-08-23,-142.78988593846415,stationery purchase,office
+2023-02-27,605.7548653156642,customer payment received,income
+2024-08-16,-894.4371809844813,social media ads,marketing
+2025-08-21,-908.304616746626,social media ads,marketing
+2022-02-22,581.6518902934872,customer payment received,income
+2022-01-08,-254.23603282929648,electricity payment,utilities
+2022-01-08,944.8770949224405,customer payment received,income
+2022-08-17,-122.81408642668875,printer ink,office
+2022-03-17,-254.91747137027664,electricity payment,utilities
+2025-04-12,-1414.7141128488533,consultant salary,salary
+2024-06-04,-374.767721388233,water service charge,utilities
+2025-12-02,-2297.9125218152317,employee payroll,salary
+2025-03-16,-326.6390463478491,internet bill,utilities
+2025-11-08,-2842.966104372757,warehouse lease payment,rent
+2022-12-15,5618.879356608063,customer payment received,income
+2023-02-25,-1096.1222688128898,social media ads,marketing
+2025-05-25,-1933.7984938298819,monthly office rent,rent
+2022-12-24,-812.9052799232443,flight ticket,travel
+2022-03-25,-965.4386528091142,promotional expense,marketing
+2024-09-04,-826.3178424202564,promotional expense,marketing
+2025-03-16,-266.642320485674,electricity payment,utilities
+2025-11-15,-1554.5269074022533,employee payroll,salary
+2025-09-17,-124.94265659832078,office supplies,office
+2022-06-25,-169.18559507928344,office supplies,office
+2025-02-02,-672.8841503652911,flight ticket,travel
+2025-05-21,-2318.079040423907,building rent,rent
+2024-10-16,-2816.428741946771,building rent,rent
+2025-04-12,-2164.4642013198436,employee payroll,salary
+2025-05-09,7006.3027697763255,customer payment received,income
+2023-10-15,-124.1390210784491,office supplies,office
+2022-02-28,-2179.394377382779,consultant salary,salary
+2023-10-29,-1539.1449861288913,consultant salary,salary
+2022-10-22,-142.30492220802702,stationery purchase,office
+2022-06-16,-987.4070228447351,campaign spend,marketing
+2022-07-02,-2036.6725025294631,consultant salary,salary
+2024-10-15,-315.1843389347779,electricity payment,utilities
+2024-01-08,-814.6791443441306,client visit transport,travel
+2024-02-28,-665.2954494983026,flight ticket,travel
+2024-12-24,-161.03539861560847,printer ink,office
+2024-03-12,405.6952125664166,customer payment received,income
+2024-07-09,-150.87590701090892,stationery purchase,office
+2022-05-06,-2617.390857222327,building rent,rent
+2025-05-28,-1508.0083732002963,staff wage transfer,salary
+2023-10-18,-734.2555865705019,flight ticket,travel
+2022-08-15,-2641.4473280459015,warehouse lease payment,rent
+2025-04-03,581.9627699004376,customer payment received,income
+2024-12-09,-2139.589942704919,monthly office rent,rent
+2022-03-19,-197.47388955479937,stationery purchase,office
+2022-10-10,-2649.8950211086612,warehouse lease payment,rent
+2022-01-24,-1846.141799765663,warehouse lease payment,rent
+2023-01-31,-1950.4360423043368,staff wage transfer,salary
+2022-05-27,-2010.8073635816684,monthly office rent,rent
+2024-11-03,1234.0494761722473,customer payment received,income
+2024-02-03,-361.1494760665357,internet bill,utilities
+2025-12-03,-159.13800702309717,stationery purchase,office
+2024-12-30,-2077.696145054143,employee payroll,salary
+2024-06-12,-670.8788611293775,hotel booking,travel
+2024-01-15,1881.5631332414875,customer payment received,income
+2022-03-21,-761.2143577847271,client visit transport,travel
+2022-04-13,-816.2497268192667,social media ads,marketing
+2024-06-19,-1816.4492247711426,employee payroll,salary
+2022-01-07,-746.3451427984247,hotel booking,travel
+2022-03-03,4773.764873219456,customer payment received,income
+2022-11-17,305.03064913883526,customer payment received,income
+2025-07-15,-597.5210552693367,client visit transport,travel
+2023-11-02,-375.7062195396702,hotel booking,travel
+2024-11-02,414.0137869311588,customer payment received,income
+2023-08-25,-626.0784171962263,hotel booking,travel
+2022-09-10,-159.987786819422,office supplies,office
+2023-06-27,-2689.813475009625,warehouse lease payment,rent
+2022-05-15,-307.83785529995396,electricity payment,utilities
+2025-01-30,-2448.1662154471364,warehouse lease payment,rent
+2022-09-26,-2176.318472985948,building rent,rent
+2023-07-04,-307.2774451368561,internet bill,utilities
+2025-12-02,-1493.475822453639,staff wage transfer,salary
+2024-05-14,-265.17489685905605,water service charge,utilities
+2023-11-01,-314.09192725087263,internet bill,utilities
+2024-03-04,-682.6208764882399,client visit transport,travel
+2025-02-19,-129.52271636385515,stationery purchase,office
+2023-01-07,-143.61211497355185,printer ink,office
+2024-07-18,-297.1138438929831,water service charge,utilities
+2025-06-29,-1981.9399558087514,consultant salary,salary
+2024-04-16,-897.4361898035854,campaign spend,marketing
+2023-10-15,-2513.004718756971,building rent,rent
+2022-08-01,-741.7357501675903,flight ticket,travel
+2022-12-29,-297.47074561098816,electricity payment,utilities
+2025-10-14,-1866.6424247881282,consultant salary,salary
+2024-03-01,-648.7609060655184,hotel booking,travel
+2023-03-17,-2239.571397766827,employee payroll,salary
+2023-09-04,-1894.0058435259023,staff wage transfer,salary
+2024-04-24,-522.8069308539029,flight ticket,travel
+2024-02-25,-1588.8253754444202,consultant salary,salary
+2024-10-19,-931.3695773158641,campaign spend,marketing
+2023-01-12,-2403.7621070944265,warehouse lease payment,rent
+2024-08-06,-275.73129511757065,internet bill,utilities
+2023-10-09,-1023.8016077722027,promotional expense,marketing
+2025-10-06,-1686.5128359604453,staff wage transfer,salary
+2022-08-19,-788.534421304006,promotional expense,marketing
+2022-08-05,-946.5961770777913,campaign spend,marketing
+2023-11-06,-210.83589780165016,printer ink,office
+2024-01-13,-1459.8405320344355,employee payroll,salary
+2024-10-06,-970.7960105510908,promotional expense,marketing
+2023-08-14,-146.27372661976534,stationery purchase,office
+2025-08-27,-907.5526333261112,campaign spend,marketing
+2023-11-24,-1741.8128482885259,consultant salary,salary
+2022-07-08,-1025.3237576565186,social media ads,marketing
+2022-06-24,-2980.6942178982495,monthly office rent,rent
+2025-11-23,-696.8493134542513,flight ticket,travel
+2022-07-15,805.4925345654765,customer payment received,income
+2025-10-16,-686.9067858466086,flight ticket,travel
+2023-02-11,-861.3085929746458,flight ticket,travel
+2022-05-17,-3053.952986297887,building rent,rent
+2023-03-22,-700.8693878126066,hotel booking,travel
+2024-06-17,-163.68557881198012,stationery purchase,office
+2023-09-18,-312.5649413645258,water service charge,utilities
+2025-02-21,-2060.5534356904677,employee payroll,salary
+2024-06-11,-144.91815368287757,office supplies,office
+2023-08-09,-2378.168230440781,monthly office rent,rent
+2024-07-16,-330.10092030015386,electricity payment,utilities
+2025-11-20,-707.715259466992,hotel booking,travel
+2023-08-25,-301.0540331640367,internet bill,utilities
+2022-08-13,-161.2639082847447,stationery purchase,office
+2023-08-21,-322.9875551573857,electricity payment,utilities
+2025-05-12,-174.15830428615052,office supplies,office
+2022-11-14,-2798.37956562647,building rent,rent
+2025-10-18,-1041.3573823034712,promotional expense,marketing
+2024-05-09,-636.8853570714991,hotel booking,travel
+2024-05-28,3914.769675534153,customer payment received,income
+2023-04-09,-2301.7255187703845,consultant salary,salary
+2025-09-06,-966.7358932746637,social media ads,marketing
+2022-02-22,-613.3815215905192,client visit transport,travel
+2023-03-13,-774.869943577588,hotel booking,travel
+2023-09-04,-3068.384470567552,building rent,rent
+2023-11-29,-831.0009189100982,hotel booking,travel
+2023-11-24,-112.39977235732694,office supplies,office
+2022-08-05,-2314.9630044311143,warehouse lease payment,rent
+2022-11-26,-369.5560621761102,electricity payment,utilities
+2022-05-20,-301.81540739403056,water service charge,utilities
+2024-04-16,-195.50505876097827,office supplies,office
+2023-05-28,-1765.0594250381155,consultant salary,salary
+2024-04-06,-349.7625831968453,water service charge,utilities
+2024-05-11,-891.1531015879432,campaign spend,marketing
+2024-10-22,-2145.8440492973978,warehouse lease payment,rent
+2024-03-10,-881.5586917932854,promotional expense,marketing
+2024-08-04,-898.9208060109102,campaign spend,marketing
+2024-05-07,-915.5702242989904,promotional expense,marketing
+2024-08-11,-802.7362924043506,client visit transport,travel
+2024-06-19,-520.0495938090683,campaign spend,marketing
+2023-04-07,-848.5880508669142,promotional expense,marketing
+2022-12-26,-138.18534058561656,printer ink,office
+2025-02-24,-264.3371664747327,water service charge,utilities
+2023-05-16,-372.2275190551766,internet bill,utilities
+2024-03-13,-735.7941408417269,client visit transport,travel
+2022-10-15,-1771.0681303333827,staff wage transfer,salary
+2023-09-23,-138.16045459221235,printer ink,office
+2024-02-13,-987.9355291591196,promotional expense,marketing
+2024-07-03,-729.8303955628822,client visit transport,travel
+2024-02-09,-1280.24654353132,staff wage transfer,salary
+2023-06-11,-297.90690734033666,internet bill,utilities
+2025-11-06,-297.12100298840153,water service charge,utilities
+2024-01-20,-583.8693393922074,hotel booking,travel
+2025-03-26,1473.1084687779498,customer payment received,income
+2024-12-12,-767.8899634052298,promotional expense,marketing
+2024-03-26,344.1082688552752,customer payment received,income
+2025-07-19,-185.57949258399734,stationery purchase,office
+2022-07-07,-804.9343034083724,campaign spend,marketing
+2025-09-07,-267.5448582240094,water service charge,utilities
+2025-05-27,1101.476093941912,customer payment received,income
+2024-01-06,-289.365407308731,electricity payment,utilities
+2024-12-07,-799.0317920587859,hotel booking,travel
+2024-01-31,-795.7514505574119,promotional expense,marketing
+2023-01-28,-295.41807241035156,electricity payment,utilities
+2025-03-14,-838.0780560814641,flight ticket,travel
+2022-12-26,-3017.93647430904,warehouse lease payment,rent
+2023-04-05,-621.3742376863497,campaign spend,marketing
+2024-01-29,-238.6893790199904,internet bill,utilities
+2025-05-08,460.17556042190364,customer payment received,income
+2023-07-15,-601.677956213462,flight ticket,travel
+2023-12-23,-1881.8644365118344,consultant salary,salary
+2022-03-02,967.7796243824741,customer payment received,income
+2022-06-19,1892.4888370353585,customer payment received,income
+2022-03-23,-272.51660298917125,electricity payment,utilities
+2022-04-16,-2583.5583159089542,warehouse lease payment,rent
+2025-06-22,-248.7919453769978,electricity payment,utilities
+2025-05-15,-1934.7131384897255,consultant salary,salary
+2025-04-15,-259.97941858024427,internet bill,utilities
+2022-03-23,-562.4458322489702,client visit transport,travel
+2022-04-24,-2172.121589332605,monthly office rent,rent
+2023-02-14,-801.0573447459328,campaign spend,marketing
+2024-04-05,-1728.3072647385525,employee payroll,salary
+2023-05-04,-155.33834367969155,office supplies,office
+2023-12-14,-1063.669719563063,promotional expense,marketing
+2022-09-10,-1876.1439101225067,consultant salary,salary
+2024-12-03,-674.6475232417449,flight ticket,travel
+2023-04-04,-2515.6739604533172,building rent,rent
+2022-04-08,-2123.696390920876,monthly office rent,rent
+2024-12-21,-155.20755294799778,stationery purchase,office
+2025-08-11,-819.7168214650252,campaign spend,marketing
+2022-01-22,-2004.1990397205711,warehouse lease payment,rent
+2023-09-30,-1628.3222986681983,staff wage transfer,salary
+2025-04-23,-1756.3883439184615,staff wage transfer,salary
+2024-10-28,-225.83495271792543,water service charge,utilities
+2025-06-05,-1679.1169418743316,staff wage transfer,salary
+2023-08-30,-1652.6127138104307,employee payroll,salary
+2023-06-28,-646.3756653325811,flight ticket,travel
+2024-11-02,-2176.335491049349,employee payroll,salary
+2022-08-13,-125.79623323138068,stationery purchase,office
+2022-12-16,-851.8379008083716,social media ads,marketing
+2024-05-27,-839.7277621318997,campaign spend,marketing
+2024-09-03,-1816.2249068938854,employee payroll,salary
+2022-06-24,-811.3294988927814,campaign spend,marketing
+2024-01-13,-166.36577416483047,office supplies,office
+2023-06-18,-1884.3124125437962,employee payroll,salary
+2024-01-04,-1114.0564555710346,campaign spend,marketing
+2025-11-01,-229.43070988212756,internet bill,utilities
+2022-04-22,-848.0623525309934,campaign spend,marketing
+2025-12-25,-369.3159469131785,internet bill,utilities
+2023-10-19,-915.1421265149288,promotional expense,marketing
+2025-02-02,-2570.0343005516324,warehouse lease payment,rent
+2023-09-13,-241.18502009681927,electricity payment,utilities
+2023-03-31,-1672.7623763816086,employee payroll,salary
+2025-01-30,-2160.644537512234,consultant salary,salary
+2024-10-01,-1890.431650063874,consultant salary,salary
+2022-07-30,-261.16083958750914,internet bill,utilities
+2024-10-27,-2433.606494683783,building rent,rent
+2025-01-05,-852.4796012184197,promotional expense,marketing
+2023-07-21,-657.5227547259535,client visit transport,travel
+2025-09-14,-935.9636051509887,social media ads,marketing
+2024-07-25,-683.2597433228148,social media ads,marketing
+2023-05-03,-2106.642675114459,warehouse lease payment,rent
+2022-01-16,-2286.83338540202,warehouse lease payment,rent
+2024-09-13,-333.4205484615519,internet bill,utilities
+2022-11-02,-253.47857513704608,internet bill,utilities
+2025-01-10,-2260.1068989247997,employee payroll,salary
+2024-02-07,-934.1175121973629,promotional expense,marketing
+2023-11-13,-722.2123933234556,client visit transport,travel
+2022-08-28,-821.5381603807759,social media ads,marketing
+2024-11-05,-2809.8786913108406,warehouse lease payment,rent
+2022-08-31,-884.6949773665948,social media ads,marketing
+2023-09-03,4090.086261691179,customer payment received,income
+2025-05-06,-237.84244429984835,electricity payment,utilities
+2025-09-06,-224.55323407894366,water service charge,utilities
+2025-12-16,-1060.69637090273,social media ads,marketing
+2025-10-31,-1667.5361363369102,consultant salary,salary
+2024-03-23,-1604.058844503945,employee payroll,salary
+2022-10-20,-264.67705700904366,electricity payment,utilities
+2025-05-10,-303.2585552473745,internet bill,utilities
+2025-03-17,-1964.259223894085,employee payroll,salary
+2025-12-17,-1708.2967229873952,employee payroll,salary
+2024-08-09,-1749.7657322139091,employee payroll,salary
+2022-07-26,-360.18946619818024,water service charge,utilities
+2024-01-05,-270.97424898082227,electricity payment,utilities
+2023-10-17,-296.469744114994,internet bill,utilities
+2025-05-16,-908.324818092883,social media ads,marketing
+2023-07-28,-1251.2690033282088,consultant salary,salary
+2023-04-26,-173.03207463824754,office supplies,office
+2022-04-27,-1007.9537520101819,social media ads,marketing
+2025-05-05,-1947.6912746281487,staff wage transfer,salary
+2025-01-08,-1436.222724764339,staff wage transfer,salary
+2022-03-02,-1313.732537814041,employee payroll,salary
+2023-09-26,3010.795796979519,customer payment received,income
+2023-12-02,-187.82675100126667,internet bill,utilities
+2023-11-17,-2714.1759678849016,monthly office rent,rent
+2025-09-04,-3165.6036417170226,monthly office rent,rent
+2022-08-09,-256.4289483432918,internet bill,utilities
+2023-03-24,-573.5962526242798,campaign spend,marketing
+2022-09-22,-1406.2938819806404,staff wage transfer,salary
+2022-12-23,-148.42195083676214,office supplies,office
+2025-08-18,-374.1499713497012,internet bill,utilities
+2025-10-06,182.7969368240746,customer payment received,income
+2022-03-07,-1810.5057093922787,consultant salary,salary
+2024-07-12,-632.2631677955823,flight ticket,travel
+2022-12-07,-978.2244115535294,social media ads,marketing
+2022-10-09,-2673.7917301095235,monthly office rent,rent
+2023-03-03,-147.0120669437159,printer ink,office
+2022-10-11,-383.3727537760625,electricity payment,utilities
+2023-12-18,-246.37828736178452,electricity payment,utilities
+2025-12-25,-773.6411357252034,flight ticket,travel
+2024-05-06,1267.8159625126934,customer payment received,income
+2024-11-22,-2376.8972642196136,building rent,rent
+2023-12-22,-169.8770660119718,printer ink,office
+2022-01-21,-589.5321369675071,flight ticket,travel
+2022-05-03,-104.50254860579679,office supplies,office
+2023-01-28,-297.9160515842637,water service charge,utilities
+2022-12-22,-571.1712079742265,client visit transport,travel
+2025-05-13,-271.6139926134291,electricity payment,utilities
+2025-05-17,356.5910532341784,customer payment received,income
+2025-06-01,-988.1274996691823,social media ads,marketing
+2024-07-20,-153.85762120847534,printer ink,office
+2024-03-23,-835.5283863761399,flight ticket,travel
+2024-08-06,-719.5887731866287,campaign spend,marketing
+2023-08-18,-289.3197853292769,water service charge,utilities
+2024-09-06,-370.01277352492207,water service charge,utilities
+2025-03-06,-675.2552320689833,social media ads,marketing
+2025-01-19,8053.864621010281,customer payment received,income
+2024-06-15,-936.9888882610954,campaign spend,marketing
+2022-03-26,-1966.3393189331427,warehouse lease payment,rent
+2024-11-25,-741.2705584465331,client visit transport,travel
+2023-06-20,-297.6756728498708,water service charge,utilities
+2024-12-22,-235.6710611444202,water service charge,utilities
+2024-02-28,-261.60453017089156,water service charge,utilities
+2025-07-11,-267.64081292602486,electricity payment,utilities
+2023-05-10,-284.342948526778,internet bill,utilities
+2025-09-22,-310.4782822252013,internet bill,utilities
+2025-05-18,-795.2283834350695,flight ticket,travel
+2023-04-29,2268.707780191257,customer payment received,income
+2023-12-07,-657.7437208989303,client visit transport,travel
+2024-02-16,-745.0946278189226,client visit transport,travel
+2025-01-27,-153.79895816706673,stationery purchase,office
+2024-10-03,-185.59393164235274,stationery purchase,office
+2025-05-29,-2912.711999886307,building rent,rent
+2023-06-25,-1134.1420779306015,campaign spend,marketing
+2024-01-08,4596.124391847245,customer payment received,income
+2023-09-22,-1657.7915286317643,employee payroll,salary
+2025-08-21,-1160.8995178269824,social media ads,marketing
+2023-03-22,5318.377995230726,customer payment received,income
+2024-05-07,-173.56219710173332,stationery purchase,office
+2022-06-25,-817.536460796547,campaign spend,marketing
+2025-05-27,-148.2073633664798,office supplies,office
+2023-07-16,-985.4893173069352,social media ads,marketing
+2023-05-13,-146.92258236037426,printer ink,office
+2024-05-01,-2668.1086651165874,warehouse lease payment,rent
+2023-12-30,-143.9750805564185,office supplies,office
+2025-05-23,4660.762825247494,customer payment received,income
+2024-02-16,-1090.849074560037,staff wage transfer,salary
+2024-01-26,-1993.6862307767456,warehouse lease payment,rent
+2022-06-03,-303.85232839835163,internet bill,utilities
+2022-02-02,-1161.731604645476,campaign spend,marketing
+2023-08-06,-1453.6459288522674,employee payroll,salary
+2025-12-29,-1006.6170708168453,campaign spend,marketing
+2025-09-02,-717.3932999468223,flight ticket,travel
+2024-07-07,2295.3652128722215,customer payment received,income
+2024-07-10,-151.13566663758198,office supplies,office
+2023-07-26,-340.1188254602416,electricity payment,utilities
+2022-09-17,-335.1535961766153,water service charge,utilities
+2022-01-13,332.2255016465811,customer payment received,income
+2023-05-11,-718.7500566288546,flight ticket,travel
+2023-04-08,-637.3206807825673,flight ticket,travel
+2022-10-07,-1875.1285174834366,consultant salary,salary
+2023-01-14,-1672.9784039960539,consultant salary,salary
+2022-02-06,-1839.7098448673232,consultant salary,salary
+2024-06-07,-1778.2359005824592,employee payroll,salary
+2025-09-17,-2032.3844216544219,employee payroll,salary
+2024-10-06,-796.165087234481,social media ads,marketing
+2023-10-17,-2329.263085593784,monthly office rent,rent
+2023-09-07,-670.5102933838201,client visit transport,travel
+2023-03-26,-134.33073245648768,printer ink,office
+2022-07-28,-773.7603172619242,promotional expense,marketing
+2024-05-24,-304.5350062175694,electricity payment,utilities
+2024-04-07,-1979.8777262841859,monthly office rent,rent
+2022-01-11,-135.77153566726955,stationery purchase,office
+2023-08-31,-2394.21704093692,building rent,rent
+2023-02-11,-999.3265186837932,campaign spend,marketing
+2022-09-06,-805.3176368234485,promotional expense,marketing
+2024-10-24,-1901.1946701933225,staff wage transfer,salary
+2024-02-08,-890.415713417632,social media ads,marketing
+2024-07-14,-1931.7653734217224,consultant salary,salary
+2024-11-08,-1382.9986409079584,consultant salary,salary
+2025-12-05,-964.0008639044588,campaign spend,marketing
+2025-03-18,-185.7185885339543,office supplies,office
+2024-06-25,-2261.267971097404,staff wage transfer,salary
+2025-07-08,-135.7843942677316,printer ink,office
+2023-11-29,-158.25027285713674,printer ink,office
+2025-12-09,-1125.012320953682,social media ads,marketing
+2025-01-17,-2772.596859598809,monthly office rent,rent
+2024-08-08,-1449.1763287505441,staff wage transfer,salary
+2025-08-12,-985.2951180261754,social media ads,marketing
+2024-01-23,347.4817064934759,customer payment received,income
+2024-11-18,-930.7017851520136,promotional expense,marketing
+2023-02-20,-322.35261162571675,internet bill,utilities
+2025-11-08,-1839.1008364169043,consultant salary,salary
+2024-06-29,-178.6167416512699,printer ink,office
+2025-02-16,-2282.4161803381257,staff wage transfer,salary
+2023-11-05,-319.9854654464482,electricity payment,utilities
+2025-06-20,-143.18141363401386,printer ink,office
+2022-04-19,-638.016339836429,client visit transport,travel
+2022-06-16,-1484.1685311339106,consultant salary,salary
+2024-01-11,-2153.237801211328,warehouse lease payment,rent
+2024-12-06,-258.26044002089054,water service charge,utilities
+2025-03-28,-133.11547002591954,printer ink,office
+2023-10-05,-360.47545102611,internet bill,utilities
+2024-08-07,-843.2511130112458,promotional expense,marketing
+2024-03-19,-1505.5725623925873,staff wage transfer,salary
+2025-11-05,-1026.4033721311146,campaign spend,marketing
+2024-08-13,-837.913464048451,social media ads,marketing
+2023-09-02,2054.550667238612,customer payment received,income
+2025-11-17,-849.3603978931842,campaign spend,marketing
+2022-06-06,-894.5044060738403,client visit transport,travel
+2025-12-09,533.8285717873019,customer payment received,income
+2022-08-14,-653.6413325960394,campaign spend,marketing
+2023-02-26,-157.41130959178562,office supplies,office
+2025-04-15,-149.04099323072913,stationery purchase,office
+2024-12-08,-1933.0746159125883,staff wage transfer,salary
+2025-11-18,-964.3793431094925,campaign spend,marketing
+2024-12-31,-2640.545932269347,building rent,rent
+2024-07-19,-624.1688205585219,client visit transport,travel
+2023-05-22,-717.9794381296942,hotel booking,travel
+2022-01-07,-374.6818577246882,internet bill,utilities
+2022-06-30,-131.11796950907407,office supplies,office
+2023-03-12,-151.12287129945102,printer ink,office
+2022-03-01,-2780.781108992844,monthly office rent,rent
+2024-01-13,-1859.5771397751464,staff wage transfer,salary
+2025-02-09,-1534.6126242553244,consultant salary,salary
+2025-11-08,-209.06580039217806,office supplies,office
+2023-12-17,-683.2948945701544,flight ticket,travel
+2025-07-02,-913.3465206549085,campaign spend,marketing
+2025-12-10,1855.1653994092098,customer payment received,income
+2025-06-10,-941.15716150411,promotional expense,marketing
+2023-11-11,4962.165713879486,customer payment received,income
+2023-04-21,-2069.2216188164716,monthly office rent,rent
+2025-11-29,-302.826302541478,water service charge,utilities
+2022-12-20,-291.74960037007105,water service charge,utilities
+2023-08-25,1476.9188919433336,customer payment received,income
+2022-04-19,-2140.4475039958897,building rent,rent
+2025-03-05,-302.8689419245792,water service charge,utilities
+2024-08-07,-1856.8941243507259,employee payroll,salary
+2022-05-04,-1869.0722462454974,employee payroll,salary
+2022-11-21,-1569.355237644255,consultant salary,salary
+2024-03-22,-1736.4717785241353,consultant salary,salary
+2024-02-29,-818.1484685898827,client visit transport,travel
+2025-03-17,-203.5448928850359,water service charge,utilities
+2023-01-24,-308.00215763799105,internet bill,utilities
+2025-09-12,-235.6005375484816,internet bill,utilities
+2023-10-12,-861.9558459277205,promotional expense,marketing
+2025-04-16,-153.1060591938345,office supplies,office
+2022-12-15,-733.4606745105644,hotel booking,travel
+2022-02-24,-845.1875078813558,hotel booking,travel
+2022-03-22,-911.8702002716861,promotional expense,marketing
+2023-06-29,1816.6212947212457,customer payment received,income
+2025-10-24,-2467.750350623044,warehouse lease payment,rent
+2022-03-13,-152.114672237654,printer ink,office
+2023-06-24,-1472.6859500843852,building rent,rent
+2022-06-09,-336.4900024713865,internet bill,utilities
+2025-09-23,-637.9338159847915,client visit transport,travel
+2024-09-13,-360.9213383796086,internet bill,utilities
+2025-01-19,-1894.0597280731995,employee payroll,salary
+2024-11-08,-192.12349880475142,office supplies,office
+2024-08-17,-2930.9347339519886,building rent,rent
+2025-02-04,-1910.2067575170176,staff wage transfer,salary
+2022-01-12,-141.11674639921296,printer ink,office
+2025-06-18,-803.5946439453044,promotional expense,marketing
+2024-12-16,-2943.909661397573,monthly office rent,rent
+2024-12-16,-1131.6273683910727,social media ads,marketing
+2023-07-29,-174.58247108362679,stationery purchase,office
+2025-03-16,-1875.9125306883857,building rent,rent
+2023-07-12,-285.82306337477235,electricity payment,utilities
+2022-03-13,-299.2108394247124,internet bill,utilities
+2025-08-19,-2884.8994202931976,building rent,rent
+2022-12-09,-2127.215624394945,employee payroll,salary
+2022-05-29,-2145.2516912997553,consultant salary,salary
+2024-06-27,6581.236675521913,customer payment received,income
+2022-12-08,-350.54300919395826,internet bill,utilities
+2025-06-07,-358.5820238499494,internet bill,utilities
+2023-10-11,-1719.9765845684763,staff wage transfer,salary
+2022-01-07,-1420.213805914326,consultant salary,salary
+2025-10-22,-1712.5958981936524,consultant salary,salary
+2024-01-22,-1002.012306717401,social media ads,marketing
+2023-01-20,-1784.8412981340748,staff wage transfer,salary
+2024-09-16,-159.3061179617494,printer ink,office
+2024-02-15,-727.5209433881861,hotel booking,travel
+2022-02-13,-1064.0928859441688,campaign spend,marketing
+2025-01-14,-848.4193189835286,flight ticket,travel
+2023-08-10,3324.132573636878,customer payment received,income
+2024-10-19,-634.1131408494564,flight ticket,travel
+2025-08-01,-2169.3931684883923,consultant salary,salary
+2024-06-11,-1828.413035787657,building rent,rent
+2024-09-08,-1713.3175775254942,staff wage transfer,salary
+2023-01-08,-1626.5743704448664,staff wage transfer,salary
+2022-12-14,-3070.8678364780226,monthly office rent,rent
+2023-08-30,-2586.647379962309,building rent,rent
+2025-05-30,-94.95784817451772,stationery purchase,office
+2024-02-05,-867.461902721638,flight ticket,travel
+2023-05-24,-346.82703846786774,internet bill,utilities
+2025-02-13,-183.6748607262648,office supplies,office
+2025-05-31,-1145.9390667074563,staff wage transfer,salary
+2025-08-11,-321.40871036906776,electricity payment,utilities
+2023-03-13,301.4601345578125,customer payment received,income
+2024-11-02,1604.2994550666197,customer payment received,income
+2024-05-12,-329.3083256862065,internet bill,utilities
+2023-10-18,3857.440288211679,customer payment received,income
+2023-08-03,-2378.843778273287,monthly office rent,rent
+2022-06-17,-2618.5468269881826,warehouse lease payment,rent
+2023-02-06,-2250.3125883224816,warehouse lease payment,rent
+2024-03-14,-898.3106424780934,promotional expense,marketing
+2025-07-19,-617.0420673054157,hotel booking,travel
+2025-06-19,-363.9792931071202,water service charge,utilities
+2022-10-02,-1001.9979970299713,social media ads,marketing
+2024-09-19,-2896.0995281090004,warehouse lease payment,rent
+2022-05-04,-1705.1463874832623,staff wage transfer,salary
+2024-09-13,-250.536720279661,electricity payment,utilities
+2023-05-15,-145.3053844078492,printer ink,office
+2023-10-20,-574.0283730638621,hotel booking,travel
+2024-11-14,-148.46772832265134,office supplies,office
+2023-09-13,-1400.277680838715,staff wage transfer,salary
+2025-03-25,-156.84766361065323,printer ink,office
+2024-02-19,-2814.1837220416187,warehouse lease payment,rent
+2025-12-30,-1465.9963537025333,employee payroll,salary
+2024-07-21,-705.3116771505101,flight ticket,travel
+2023-03-09,-3238.755636989341,building rent,rent
+2025-02-06,-151.2477009331781,office supplies,office
+2023-08-20,-166.3573733791653,stationery purchase,office
+2024-02-20,-449.6945910119033,hotel booking,travel
+2022-07-19,-1910.087308333197,employee payroll,salary
+2022-06-24,-2490.2642074624355,monthly office rent,rent
+2024-04-19,-779.7861321612161,client visit transport,travel
+2022-09-30,-596.7598032082326,flight ticket,travel
+2025-12-28,-1011.8981469780366,campaign spend,marketing
+2025-06-04,-562.4998081659879,flight ticket,travel
+2024-10-20,6455.4434287256245,customer payment received,income
+2024-12-09,-2670.6690002645,monthly office rent,rent
+2024-05-19,-1008.5602448126194,campaign spend,marketing
+2022-03-30,6957.367480046271,customer payment received,income
+2023-07-28,-163.90622415266716,office supplies,office
+2023-12-26,-2888.020371506779,monthly office rent,rent
+2025-08-30,-870.3806395832228,social media ads,marketing
+2022-11-17,-144.72159942989768,office supplies,office
+2023-12-27,-330.0752265759616,water service charge,utilities
+2023-05-18,-2388.9622788912734,building rent,rent
+2022-07-16,-155.7113451253245,printer ink,office
+2022-05-31,-1599.0299310375874,staff wage transfer,salary
+2023-06-18,-665.6218350042583,flight ticket,travel
+2022-05-01,-155.7518933635754,printer ink,office
+2022-04-09,-1084.6467763376031,campaign spend,marketing
+2023-05-28,-2802.2191669816343,building rent,rent
+2022-10-23,-1051.7361879279736,campaign spend,marketing
+2024-03-21,-2335.028512492126,monthly office rent,rent
+2022-01-26,-1022.5884283644352,promotional expense,marketing
+2023-03-17,-670.2386492468131,client visit transport,travel
+2023-10-25,-1882.3289861535739,staff wage transfer,salary
+2025-11-08,-331.06483106299993,internet bill,utilities
+2024-07-16,-2754.545565190817,monthly office rent,rent
+2025-07-10,-127.23764069160045,office supplies,office
+2023-05-17,-1975.3930015906044,staff wage transfer,salary
+2023-10-20,-2138.392420833194,employee payroll,salary
+2023-09-07,-606.0020677662511,flight ticket,travel
+2025-07-20,-863.1016303675219,social media ads,marketing
+2025-11-02,-549.8723174906061,hotel booking,travel
+2025-11-06,-732.2904152952866,hotel booking,travel
+2025-01-03,-650.6818444540379,flight ticket,travel
+2024-01-06,462.98238108944463,customer payment received,income
+2024-03-01,-283.7279765170387,internet bill,utilities
+2025-12-03,-865.378047034098,promotional expense,marketing
+2023-02-20,-667.4179657451771,promotional expense,marketing
+2023-05-22,-146.15350457578114,printer ink,office
+2025-08-03,-116.053808475242,printer ink,office
+2023-07-19,-769.3806938411967,promotional expense,marketing
+2022-12-10,-1798.5996588620646,staff wage transfer,salary
+2024-03-29,1533.511170532402,customer payment received,income
+2023-04-21,-1083.1409798767804,social media ads,marketing
+2025-07-25,-2216.4708441064213,staff wage transfer,salary
+2025-08-21,-1030.2396898065313,social media ads,marketing
+2023-03-24,-1973.8324837725756,consultant salary,salary
+2024-02-13,-717.7375614140975,client visit transport,travel
+2025-12-08,1712.25302287969,customer payment received,income
+2024-12-20,-1924.643394788655,staff wage transfer,salary
+2022-11-12,-273.5734052214822,water service charge,utilities
+2024-05-13,-997.8174668053675,campaign spend,marketing
+2024-06-24,649.5446222726376,customer payment received,income
+2024-08-12,-150.39595340825187,office supplies,office
+2022-02-06,-2759.945104803417,monthly office rent,rent
+2023-03-14,-887.5560904838775,campaign spend,marketing
+2025-06-02,-920.4077313932241,social media ads,marketing
+2022-12-19,-182.4775529310789,printer ink,office
+2023-03-14,-2860.986428157232,monthly office rent,rent
+2023-04-17,-153.71852932550482,office supplies,office
+2022-09-17,-325.4785173687,water service charge,utilities
+2022-08-16,-297.25433150636076,internet bill,utilities
+2023-05-22,624.9731076013569,customer payment received,income
+2025-07-01,-658.0941634436834,flight ticket,travel
+2022-01-03,-756.8680316505618,client visit transport,travel
+2023-02-18,-283.09213660744393,electricity payment,utilities
+2022-03-30,-2175.3186238075677,warehouse lease payment,rent
+2024-03-31,-136.7534484851742,printer ink,office
+2023-01-02,-1826.5727003376007,consultant salary,salary
+2025-03-03,-2101.1841518306774,building rent,rent
+2024-05-04,-768.4678297872935,flight ticket,travel
+2025-02-19,-291.8355870922337,internet bill,utilities
+2024-07-16,-656.3956325221274,hotel booking,travel
+2023-10-03,-151.68215767679945,office supplies,office
+2025-06-11,-2535.2495403357943,monthly office rent,rent
+2023-11-27,-1859.290377099865,employee payroll,salary
+2025-10-19,-716.5183724490889,hotel booking,travel
+2025-12-24,-708.8515729320688,campaign spend,marketing
+2024-05-10,-827.6588213434319,flight ticket,travel
+2024-09-12,-417.54881092437006,water service charge,utilities
+2023-01-09,1333.039154289698,customer payment received,income
+2025-04-05,-161.47448646752076,office supplies,office
+2024-09-08,-250.1545197232308,electricity payment,utilities
+2025-08-11,-148.24822370398564,office supplies,office
+2023-01-26,-950.0327622278814,social media ads,marketing
+2025-02-24,-1805.3346221556799,staff wage transfer,salary
+2023-11-19,-2020.9329105079837,consultant salary,salary
+2022-09-28,-959.5774566759171,campaign spend,marketing
+2022-09-08,-1596.2462233633958,consultant salary,salary
+2024-04-01,-297.2275344214736,internet bill,utilities
+2023-04-12,-2006.6459890824822,staff wage transfer,salary
+2022-05-29,-642.0447358879121,hotel booking,travel
+2023-09-17,-2276.4463341437527,staff wage transfer,salary
+2024-08-11,-614.1402813423942,hotel booking,travel
+2023-04-11,-140.18371230226057,office supplies,office
+2025-10-27,-823.73301177118,campaign spend,marketing
+2025-02-12,-146.15388664961324,office supplies,office
+2024-01-20,-1806.0953791093652,monthly office rent,rent
+2025-09-27,-315.82557208247323,internet bill,utilities
+2023-09-25,-2453.025856327843,staff wage transfer,salary
+2022-07-24,-121.2794051374291,stationery purchase,office
+2022-02-22,-895.9724387379039,promotional expense,marketing
+2025-10-02,-1649.1318206208052,staff wage transfer,salary
+2025-11-03,-767.492274812276,flight ticket,travel
+2024-12-16,-642.5521579288693,client visit transport,travel
+2022-05-31,-327.3940615640397,water service charge,utilities
+2023-03-06,-249.28755855544657,internet bill,utilities
+2022-03-02,-2764.890813293422,monthly office rent,rent
+2022-03-16,-333.01093545754685,internet bill,utilities
+2022-12-26,-267.0312195090529,water service charge,utilities
+2024-04-15,-1034.9979454094037,social media ads,marketing
+2022-04-06,-133.19594676072836,office supplies,office
+2025-12-09,-911.9131357895685,promotional expense,marketing
+2023-10-27,-2614.116313558672,warehouse lease payment,rent
+2023-01-21,-154.81175102236307,printer ink,office
+2024-01-25,-254.22701935709077,water service charge,utilities
+2025-02-28,-334.4934201140492,water service charge,utilities
+2023-04-02,-151.60461151033354,printer ink,office
+2022-03-11,339.3847360782945,customer payment received,income
+2022-03-16,-1981.4229103597247,monthly office rent,rent
+2025-05-29,-290.9254105814484,water service charge,utilities
+2022-06-13,-858.7806812079266,social media ads,marketing
+2024-07-17,1873.7830168356566,customer payment received,income
+2023-07-16,-1856.9998309637879,staff wage transfer,salary
+2025-02-09,-670.0619966590614,hotel booking,travel
+2022-03-30,-118.04937184979016,office supplies,office
+2025-08-04,-2297.079765169068,consultant salary,salary
+2024-10-17,-630.7521532180551,campaign spend,marketing
+2023-10-19,-915.6869033885667,campaign spend,marketing
+2022-10-30,-158.90815419923845,office supplies,office
+2025-11-28,-1407.28012894106,consultant salary,salary
+2023-03-18,-2026.4911495683798,staff wage transfer,salary
+2023-12-18,-771.9504947537976,flight ticket,travel
+2023-07-30,-662.0742221743304,flight ticket,travel
+2022-12-03,-239.7811740177606,water service charge,utilities
+2023-09-01,-838.4383554152677,social media ads,marketing
+2022-08-10,-1079.7720426077603,campaign spend,marketing
+2022-01-03,-1656.021954272284,staff wage transfer,salary
+2023-02-28,-1081.6385982209408,promotional expense,marketing
+2022-06-13,-1717.8793795297322,staff wage transfer,salary
+2023-08-29,-351.191729791321,water service charge,utilities
+2025-06-14,-2535.295399212932,building rent,rent
+2022-08-26,1095.8483402735137,customer payment received,income
+2022-01-02,-136.34129771766257,office supplies,office
+2022-06-12,-296.68545322535124,electricity payment,utilities
+2024-01-13,-1019.1660882067808,promotional expense,marketing
+2023-02-06,-2779.8230325838936,building rent,rent
+2023-12-17,-753.6420942745605,client visit transport,travel
+2022-02-12,-281.5528986758745,electricity payment,utilities
+2023-05-02,-1183.4867680728917,campaign spend,marketing
+2023-08-23,-167.67773313601882,printer ink,office
+2023-09-23,-691.6824199805653,client visit transport,travel
+2024-03-16,-3031.37834241362,monthly office rent,rent
+2025-02-14,697.3075378311853,customer payment received,income
+2023-11-14,-2355.874765257472,building rent,rent
+2025-05-13,-316.5417959772084,internet bill,utilities
+2024-02-13,-2772.840130683023,warehouse lease payment,rent
+2023-01-16,-594.6633836901362,client visit transport,travel
+2022-12-01,-1578.0769557006574,employee payroll,salary
+2023-04-17,-2070.895695397655,employee payroll,salary
+2024-05-22,-2020.9261780973975,warehouse lease payment,rent
+2022-12-21,-143.62604704161046,office supplies,office
+2025-08-28,352.4594711053747,customer payment received,income
+2023-12-03,-857.0306876418296,campaign spend,marketing
+2025-06-15,-2803.4122251980907,building rent,rent
+2024-09-25,-275.6725723673816,electricity payment,utilities
+2023-05-03,-102.29818265135725,stationery purchase,office
+2022-11-30,-727.0183779528957,hotel booking,travel
+2024-12-22,-2496.683009988645,warehouse lease payment,rent
+2023-04-29,-2079.2019925619097,warehouse lease payment,rent
+2022-12-27,-1892.7546440829387,employee payroll,salary
+2025-09-21,-143.23616684779793,printer ink,office
+2023-12-07,-1650.4533935247155,employee payroll,salary
+2022-03-12,-152.70191801404675,stationery purchase,office
+2023-12-24,-713.7226354831575,campaign spend,marketing
+2023-11-05,-139.258262097688,office supplies,office
+2025-06-16,-667.9202755469046,promotional expense,marketing
+2024-11-05,3323.3066924385425,customer payment received,income
+2022-10-07,-826.7604151227007,social media ads,marketing
+2022-08-08,-2121.970120231269,consultant salary,salary
+2024-05-31,12500.97070128461,customer payment received,income
+2022-03-11,-1692.7468056956723,consultant salary,salary
+2023-04-12,-1768.6978809343682,warehouse lease payment,rent
+2022-07-21,-2160.655555489793,building rent,rent
+2022-01-31,-1486.134988735861,consultant salary,salary
+2025-09-04,-2860.37362822162,building rent,rent
+2022-05-12,-236.6508537635611,internet bill,utilities
+2022-01-14,-2275.1558050786084,building rent,rent
+2025-09-24,-2423.369617296642,building rent,rent
+2022-10-03,342.885672198052,customer payment received,income
+2025-04-07,-2259.705574655259,building rent,rent
+2022-02-15,-2818.1968657572406,monthly office rent,rent
+2022-08-13,-2893.221866810347,warehouse lease payment,rent
+2022-06-11,-2416.7004090439555,building rent,rent
+2024-10-28,-702.8303628256967,client visit transport,travel
+2024-06-25,-832.3902269712751,campaign spend,marketing
+2023-11-26,-984.6883249987786,promotional expense,marketing
+2022-12-20,-728.1096368399848,flight ticket,travel
+2022-05-10,-2662.5351192930657,warehouse lease payment,rent
+2024-04-11,-1147.928877320635,promotional expense,marketing
+2022-12-04,-2796.450418646095,warehouse lease payment,rent
+2024-05-12,-882.4293025515217,flight ticket,travel
+2024-10-01,-249.70916113800797,water service charge,utilities
+2025-05-26,-158.31274510103435,stationery purchase,office
+2023-12-23,-1721.2105527948963,staff wage transfer,salary
+2022-01-07,-749.0128647445696,client visit transport,travel
+2023-02-15,741.4724659289044,customer payment received,income
+2025-05-31,-750.1482407999838,hotel booking,travel
+2024-02-19,-167.9850704473119,stationery purchase,office
+2024-06-23,-743.6741779036508,social media ads,marketing
+2023-10-31,-308.2850819452724,internet bill,utilities
+2022-08-26,-348.7218070029067,internet bill,utilities
+2025-08-03,-846.729078114977,campaign spend,marketing
+2025-02-03,-282.2823750308521,water service charge,utilities
+2025-12-24,-1904.4620686758383,employee payroll,salary
+2025-06-03,-310.77743860140356,internet bill,utilities
+2023-03-02,-2641.856956511577,monthly office rent,rent
+2023-01-07,-1419.7188120534838,employee payroll,salary
+2022-12-30,-414.26435628730485,electricity payment,utilities
+2025-09-04,-962.6055666026675,promotional expense,marketing
+2024-03-24,-955.3959987459677,promotional expense,marketing
+2023-10-26,-1992.815394894014,staff wage transfer,salary
+2025-11-15,885.1709448178207,customer payment received,income
+2024-05-31,-2344.807230320411,building rent,rent
+2025-08-21,-959.6505306095373,social media ads,marketing
+2025-12-09,-2033.7385088380765,consultant salary,salary
+2022-04-27,-727.0199293772898,campaign spend,marketing
+2023-06-13,-139.850536116664,office supplies,office
+2024-12-08,-935.2918629683601,promotional expense,marketing
+2025-04-03,-1347.056248533639,staff wage transfer,salary
+2022-08-05,-154.23431678364932,printer ink,office
+2023-04-11,-752.0207805420291,social media ads,marketing
+2024-03-11,-775.8478376810755,hotel booking,travel
+2025-03-13,-149.76944960961978,office supplies,office
+2022-06-15,-149.99392265801595,office supplies,office
+2024-05-27,-1715.624091476692,monthly office rent,rent
+2023-03-10,-142.43441445707165,office supplies,office
+2022-11-13,-855.9496426367393,promotional expense,marketing
+2024-01-23,-1789.7724014878083,staff wage transfer,salary
+2023-08-28,-1699.9585014251322,staff wage transfer,salary
+2024-07-17,-866.797113231517,social media ads,marketing
+2023-04-10,-1814.205265124955,employee payroll,salary
+2025-04-17,-272.4130105603146,electricity payment,utilities
+2022-04-25,-1027.9376553112886,social media ads,marketing
+2025-06-13,-382.5029474746489,hotel booking,travel
+2022-02-13,-147.74678446964828,printer ink,office
+2024-12-11,-3060.872594078263,warehouse lease payment,rent
+2023-05-22,-2051.9708986861206,employee payroll,salary
+2023-07-15,-159.95564121412525,office supplies,office
+2022-01-28,-650.4389953203023,flight ticket,travel
+2024-10-22,-1646.5294283647988,employee payroll,salary
+2022-08-30,-1304.0383041461664,consultant salary,salary
+2024-08-21,-353.6346589923844,water service charge,utilities
+2024-11-25,-592.737894071944,client visit transport,travel
+2025-05-19,2805.6124269491083,customer payment received,income
+2024-10-31,-684.0830662939501,flight ticket,travel
+2023-03-17,-321.1914634790187,internet bill,utilities
+2024-12-15,-726.2365872039838,client visit transport,travel
+2025-04-21,-3264.4789399646534,building rent,rent
+2023-04-09,-708.516251437683,hotel booking,travel
+2022-07-01,-160.90800898880033,stationery purchase,office
+2025-07-24,-2365.577658862462,warehouse lease payment,rent
+2022-08-05,-2041.3142113395074,consultant salary,salary
+2024-05-17,-845.0374765668827,promotional expense,marketing
+2022-12-12,-645.4941852145337,flight ticket,travel
+2022-07-04,-1054.9668881506511,campaign spend,marketing
+2025-02-08,-690.6617682066251,client visit transport,travel
+2022-07-29,-1038.676130552834,campaign spend,marketing
+2024-09-06,-778.823283332937,client visit transport,travel
+2024-10-09,-2635.979106413844,warehouse lease payment,rent
+2022-03-29,-960.4619655898222,social media ads,marketing
+2022-09-10,-284.13918762650786,water service charge,utilities
+2025-03-06,-2372.8770585719403,warehouse lease payment,rent
+2024-01-12,-326.836725043655,internet bill,utilities
+2022-06-27,-398.38828980077176,water service charge,utilities
+2025-12-19,-2331.883860341358,monthly office rent,rent
+2023-01-23,-154.0312348473018,stationery purchase,office
+2022-01-06,-1601.241049189515,consultant salary,salary
+2025-09-12,-2219.7717197315606,employee payroll,salary
+2022-01-25,-351.13362883016384,electricity payment,utilities
+2024-03-19,-660.8462468642892,campaign spend,marketing
+2025-12-21,1892.6270720492453,customer payment received,income
+2024-04-24,-1104.3578195963967,promotional expense,marketing
+2024-05-04,-1927.5588572595548,consultant salary,salary
+2023-07-22,-179.79859968173,printer ink,office
+2022-07-05,-857.8071116123518,promotional expense,marketing
+2024-04-16,-278.6332654711609,internet bill,utilities
+2025-08-03,-624.1612145463098,flight ticket,travel
+2022-05-14,-2642.6622853682543,building rent,rent
+2025-07-10,1899.8264605614233,customer payment received,income
+2023-08-30,492.4444668654123,customer payment received,income
+2024-02-23,-291.7924853374256,internet bill,utilities
+2022-08-30,-565.5008580780554,client visit transport,travel
+2024-06-27,-341.5424305812687,electricity payment,utilities
+2022-09-24,-2935.7125830999294,monthly office rent,rent
+2023-02-04,-693.0717532985842,client visit transport,travel
+2024-11-20,-962.6955955962094,promotional expense,marketing
+2022-03-15,-178.49841606894395,printer ink,office
+2023-10-16,-151.09088776058977,printer ink,office
+2024-05-18,527.116811336487,customer payment received,income
+2022-07-12,-115.19048656203879,printer ink,office
+2023-03-07,-566.6454919376729,client visit transport,travel
+2023-05-17,-755.9914791816832,client visit transport,travel
+2024-08-27,-705.8249817069152,hotel booking,travel
+2025-11-27,-188.19650196415776,printer ink,office
+2025-05-06,-918.2457369493761,social media ads,marketing
+2022-10-05,3976.1870114067337,customer payment received,income
+2022-01-27,-2561.8166430924116,monthly office rent,rent
+2022-03-17,-339.00835619655095,water service charge,utilities
+2024-05-20,-667.302018517679,flight ticket,travel
+2022-08-17,-850.4477738980801,promotional expense,marketing
+2022-12-04,-247.96464163954397,water service charge,utilities
+2025-05-23,-619.63903370569,flight ticket,travel
+2025-06-30,-165.6527801891254,office supplies,office
+2025-05-10,-345.1749661205109,water service charge,utilities
+2023-01-06,-292.32066262124766,electricity payment,utilities
+2024-06-24,-846.0038055312125,hotel booking,travel
+2024-06-11,-367.23505510734503,electricity payment,utilities
+2022-09-28,-151.1960209815696,stationery purchase,office
+2024-03-19,-138.1013813988462,stationery purchase,office
+2024-02-07,-660.3139242664223,flight ticket,travel
+2023-08-02,-261.8457019726196,electricity payment,utilities
+2025-01-03,-744.4059968613628,hotel booking,travel
+2024-09-17,-2177.3692478551984,staff wage transfer,salary
+2024-02-18,-343.3112671656488,electricity payment,utilities
+2024-11-26,3751.86199325389,customer payment received,income
+2025-01-19,-2513.9352943502063,monthly office rent,rent
+2024-04-08,-2462.0098543175263,building rent,rent
+2023-01-27,-813.1623175949627,hotel booking,travel
+2025-01-13,-2492.752216124729,building rent,rent
+2024-11-14,-552.9615787274603,hotel booking,travel
+2025-12-07,-334.58892622326596,internet bill,utilities
+2022-08-07,857.3613287833201,customer payment received,income
+2023-09-05,-845.1714706147656,promotional expense,marketing
+2025-09-12,-638.0657241368964,hotel booking,travel
+2024-01-22,-983.9478587315946,promotional expense,marketing
+2025-10-09,-936.1522674461496,promotional expense,marketing
+2022-01-19,-2420.457362075791,building rent,rent
+2022-02-21,-1696.9435556905044,staff wage transfer,salary
+2025-03-08,-585.9357787283316,client visit transport,travel
+2023-06-08,-163.8820388344825,office supplies,office
+2024-01-31,-2298.063304884594,warehouse lease payment,rent
+2023-09-18,-2504.511219962105,building rent,rent
+2023-08-20,-95.3999754285442,stationery purchase,office
+2025-10-04,-168.3826946416968,office supplies,office
+2022-05-18,-2002.5591489653757,employee payroll,salary
+2025-02-02,-219.64706631204123,water service charge,utilities
+2025-07-23,-771.2267372783201,hotel booking,travel
+2024-08-18,-1661.5993517735683,consultant salary,salary
+2023-08-01,-1939.4886857331794,staff wage transfer,salary
+2022-08-22,-265.8826102247322,water service charge,utilities
+2024-09-24,-677.351635041975,client visit transport,travel
+2023-11-16,-1811.3183220354288,consultant salary,salary
+2022-08-07,-289.6775552328393,water service charge,utilities
+2023-06-10,-1784.0448000832453,staff wage transfer,salary
+2025-11-05,-671.3415574970635,social media ads,marketing
+2023-01-23,-2893.907478755705,monthly office rent,rent
+2022-09-18,-1886.4650004213868,employee payroll,salary
+2024-09-23,-1324.922237248689,staff wage transfer,salary
+2022-10-19,-166.54342338960748,printer ink,office
+2025-09-05,356.1526288245666,customer payment received,income
+2025-06-08,-844.1703192547074,hotel booking,travel
+2025-12-07,-2679.4481855341623,warehouse lease payment,rent
+2025-08-26,-867.5431171927078,promotional expense,marketing
+2022-12-23,-322.5096686440318,water service charge,utilities
+2022-11-06,-125.57378843308368,stationery purchase,office
+2023-05-16,-358.8450104273223,water service charge,utilities
+2023-11-18,-165.7734185397256,stationery purchase,office
+2025-07-09,-683.7878639841175,campaign spend,marketing
+2024-12-07,13819.349878397326,customer payment received,income
+2024-07-30,2170.8833714771376,customer payment received,income
+2025-07-07,-1870.842095291745,employee payroll,salary
+2024-08-01,-307.62041281596146,electricity payment,utilities
+2023-07-08,-2002.1459958098883,consultant salary,salary
+2023-08-27,-887.6753407563136,social media ads,marketing
+2024-01-26,4166.884296242534,customer payment received,income
+2022-05-10,-716.7593300896706,client visit transport,travel
+2024-12-19,-882.5756235646978,client visit transport,travel
+2024-08-11,-1042.5930740098015,campaign spend,marketing
+2024-12-04,297.29936447215306,customer payment received,income
+2024-02-20,-2471.902345537665,monthly office rent,rent
+2025-02-17,-176.71476995390117,printer ink,office
+2025-10-19,-2588.5676133372435,building rent,rent
+2024-04-12,-773.9367934453242,hotel booking,travel
+2023-10-12,-235.58352987326623,internet bill,utilities
+2022-06-02,-669.5360006556807,client visit transport,travel
+2025-02-11,-657.7787097906408,campaign spend,marketing
+2025-08-13,-150.17384132487783,stationery purchase,office
+2024-10-18,-283.51483639796726,electricity payment,utilities
+2025-06-18,-143.2339228091011,stationery purchase,office
+2025-06-12,-2098.777273322727,staff wage transfer,salary
+2025-03-12,-1514.3846126051953,staff wage transfer,salary
+2024-01-05,-287.7449969492252,water service charge,utilities
+2022-05-26,-801.5133197224336,hotel booking,travel
+2022-01-05,-823.7641495662233,campaign spend,marketing
+2022-10-26,2825.1031538946995,customer payment received,income
+2023-09-22,-1464.4357963555751,consultant salary,salary
+2024-12-22,-2021.150159280012,staff wage transfer,salary
+2023-10-28,-127.61349905475005,printer ink,office
+2022-02-03,-330.98034529218967,internet bill,utilities
+2022-11-04,-1703.2447842262102,consultant salary,salary
+2025-12-01,-113.46928849561006,printer ink,office
+2025-12-14,-283.8129825493152,internet bill,utilities
+2023-07-06,218.69684528697803,customer payment received,income
+2025-03-22,-178.28213269581036,printer ink,office
+2024-11-16,-156.9010428999763,office supplies,office
+2025-09-22,-632.3644245990419,hotel booking,travel
+2025-07-20,1829.1572343138077,customer payment received,income
+2024-07-07,-155.1180216211651,stationery purchase,office
+2023-07-31,-1768.1120644482558,consultant salary,salary
+2024-07-04,-3652.3863515579874,warehouse lease payment,rent
+2023-04-12,-1626.6187028791992,employee payroll,salary
+2023-05-24,-653.1775234244624,hotel booking,travel
+2024-06-08,-527.5730223473074,client visit transport,travel
+2024-04-14,-2383.235076579377,monthly office rent,rent
+2024-04-28,-590.3283511246902,hotel booking,travel
+2023-07-17,-1702.0998900819184,employee payroll,salary
+2023-08-21,-956.0254284468604,hotel booking,travel
+2022-01-15,-750.0976947118985,client visit transport,travel
+2024-05-29,-737.0751147988697,client visit transport,travel
+2024-04-21,-263.94697324732215,electricity payment,utilities
+2025-09-28,-242.03702683820168,electricity payment,utilities
+2024-01-07,-939.8542554612892,promotional expense,marketing
+2023-11-15,-831.7055162877265,promotional expense,marketing
+2022-04-09,-697.2837471947889,promotional expense,marketing
+2022-10-15,-320.62837235489206,electricity payment,utilities
+2023-05-09,-261.81677525751735,water service charge,utilities
+2023-07-06,-1735.1806915866382,employee payroll,salary
+2023-06-14,-730.7339372642562,flight ticket,travel
+2023-07-30,-2363.6655756020273,warehouse lease payment,rent
+2025-01-28,-265.92967340965,internet bill,utilities
+2022-07-11,-1897.108653240173,consultant salary,salary
+2023-05-01,-665.3177322213577,flight ticket,travel
+2022-08-26,-107.46467265132483,stationery purchase,office
+2023-03-26,-133.29138841720592,stationery purchase,office
+2024-09-27,-302.43338292170586,electricity payment,utilities
+2022-03-10,-2290.9762910523914,monthly office rent,rent
+2023-05-11,-1748.7970652639551,consultant salary,salary
+2022-02-04,-2896.703599199078,building rent,rent
+2025-10-27,-1053.9249381650716,social media ads,marketing
+2024-11-28,459.2716894386212,customer payment received,income
+2022-12-22,-490.9463776116929,flight ticket,travel
+2022-10-17,4474.92827756249,customer payment received,income
+2022-05-25,-2706.5563440001724,monthly office rent,rent
+2023-11-22,-112.67481372874548,printer ink,office
+2025-01-05,-2070.7392632801184,employee payroll,salary
+2024-05-03,-1475.766734065168,building rent,rent
+2025-07-11,-2098.6159363215893,staff wage transfer,salary
+2023-05-18,-1811.3178551871883,employee payroll,salary
+2023-02-11,-611.1568491799114,hotel booking,travel
+2023-11-30,-108.61120493649233,printer ink,office
+2022-10-23,-1945.7428418134994,staff wage transfer,salary
+2025-11-26,-793.7436003167425,social media ads,marketing
+2022-09-29,-2887.501560995886,monthly office rent,rent
+2023-12-01,-3159.965826983667,warehouse lease payment,rent
+2024-02-02,5296.968374562237,customer payment received,income
+2022-03-25,-176.5002697732696,stationery purchase,office
+2023-11-16,-825.9371917115237,hotel booking,travel
+2023-10-27,-1324.3949507733405,promotional expense,marketing
+2023-01-15,-2676.9473678955324,building rent,rent
+2022-07-06,5975.339401420224,customer payment received,income
+2022-03-07,-163.80470758400588,office supplies,office
+2022-01-13,-2169.653701300301,monthly office rent,rent
+2023-12-05,-2515.8642721272245,warehouse lease payment,rent
+2022-05-12,-787.7149303290439,client visit transport,travel
+2025-11-02,-780.3350933242288,hotel booking,travel
+2022-12-24,-1754.093435151266,consultant salary,salary
+2024-08-11,-342.508256993622,electricity payment,utilities
+2024-09-10,-766.0942641404197,campaign spend,marketing
+2023-12-25,-320.16282303640116,water service charge,utilities
+2025-07-14,-293.45281288341107,electricity payment,utilities
+2022-06-11,-2825.346601473728,monthly office rent,rent
+2022-12-08,-296.82766969404764,water service charge,utilities
+2023-01-04,-1027.5660678087133,social media ads,marketing
+2022-07-17,-870.3905696779851,client visit transport,travel
+2023-03-07,-137.24316015936623,stationery purchase,office
+2023-04-02,-2760.4972575170723,warehouse lease payment,rent
+2025-01-22,4710.987791268874,customer payment received,income
+2023-03-17,-563.0453360706498,hotel booking,travel
+2025-07-04,-1299.7264567665852,staff wage transfer,salary
+2025-02-02,-782.635208264617,client visit transport,travel
+2025-08-10,-152.30247219224984,office supplies,office
+2022-06-03,-320.0756523758797,electricity payment,utilities
+2025-12-09,-684.0907179664623,hotel booking,travel
+2024-06-15,-862.8111975193492,promotional expense,marketing
+2025-12-06,-2356.7284095765626,building rent,rent
+2023-06-03,278.24684044254724,customer payment received,income
+2025-10-24,-2095.7562960883297,employee payroll,salary
+2024-05-09,-682.0946203916942,campaign spend,marketing
+2022-04-15,-765.4390642618441,client visit transport,travel
+2023-08-23,7049.903726770055,customer payment received,income
+2022-07-21,-995.7094678411886,social media ads,marketing
+2025-10-07,-2146.4499067029883,staff wage transfer,salary
+2023-03-21,-720.475459653714,client visit transport,travel
+2022-11-21,-163.34083208220898,printer ink,office
+2024-03-18,-143.40577530149437,printer ink,office
+2023-09-14,-144.03035219824537,stationery purchase,office
+2022-05-22,-305.4462787100989,water service charge,utilities
+2025-04-07,-662.0948841186988,hotel booking,travel
+2025-05-20,-1825.3507931599586,consultant salary,salary
+2024-12-21,-125.7197149652053,office supplies,office
+2024-06-20,-264.3218796667044,electricity payment,utilities
+2023-08-12,-966.1300481595352,campaign spend,marketing
+2024-03-03,-287.9238455391665,water service charge,utilities
+2024-02-01,-802.0812514752056,campaign spend,marketing
+2022-08-30,-1686.0096014118913,staff wage transfer,salary
+2022-04-30,-947.0592404039232,promotional expense,marketing
+2023-01-06,-2293.1018991085825,monthly office rent,rent
+2023-10-26,-2340.082218925647,building rent,rent
+2022-08-23,-250.07591148635743,water service charge,utilities
+2022-06-05,-339.728948154642,internet bill,utilities
+2025-05-29,-679.0825963338752,promotional expense,marketing
+2023-07-02,-260.9138128019739,water service charge,utilities
+2024-05-03,-2392.2322338836684,building rent,rent
+2024-02-05,-1758.2060939785636,staff wage transfer,salary
+2024-12-10,548.5960086499726,customer payment received,income
+2024-12-16,-705.3388947964745,hotel booking,travel
+2023-03-09,-674.0542306928058,hotel booking,travel
+2025-05-23,-1495.0397755040617,employee payroll,salary
+2023-06-27,-811.0537535929008,hotel booking,travel
+2025-05-05,-665.8905758563402,flight ticket,travel
+2023-08-15,-921.0685726109568,campaign spend,marketing
+2022-06-12,1955.1020661437624,customer payment received,income
+2025-01-15,-1202.4950752347227,social media ads,marketing
+2022-02-14,-1904.8501538458145,employee payroll,salary
+2025-02-02,-1005.4542364581752,social media ads,marketing
+2022-03-05,-2162.5653129518937,warehouse lease payment,rent
+2022-10-30,-2517.907981933203,warehouse lease payment,rent
+2024-05-31,-156.0901594952331,printer ink,office
+2025-10-07,-304.7153994141515,internet bill,utilities
+2023-08-20,-708.2291679532051,flight ticket,travel
+2022-06-26,-673.4928219677987,flight ticket,travel
+2022-12-07,-798.3163712482382,promotional expense,marketing
+2025-08-02,-2083.67925279295,employee payroll,salary
+2024-11-27,-2272.0998679605514,employee payroll,salary
+2022-05-27,-2406.1287650535764,warehouse lease payment,rent
+2023-07-17,-138.63148089151267,printer ink,office
+2023-01-22,-1318.0640068223627,employee payroll,salary
+2022-09-17,-763.9293453552625,client visit transport,travel
+2025-05-21,621.2504976168455,customer payment received,income
+2024-06-21,-2870.117408423527,warehouse lease payment,rent
+2022-09-20,-291.93727014296064,water service charge,utilities
+2024-08-08,-1428.4475967007352,warehouse lease payment,rent
+2023-08-28,-1366.282489329706,employee payroll,salary
+2022-03-31,-2047.8725705530167,warehouse lease payment,rent
+2023-10-20,-1033.5414291701416,campaign spend,marketing
+2022-09-28,-588.7258708640853,client visit transport,travel
+2022-12-25,-113.98030971726543,stationery purchase,office
+2025-07-08,-290.9997611301785,electricity payment,utilities
+2024-11-03,-1303.5744805641707,staff wage transfer,salary
+2022-07-15,-735.7531399783431,hotel booking,travel
+2025-05-28,-155.33303714339476,printer ink,office
+2024-04-19,-624.9243898456748,flight ticket,travel
+2025-07-01,-2989.743389795353,warehouse lease payment,rent
+2024-12-27,-1819.2902588228535,consultant salary,salary
+2023-05-11,-157.83864789890222,office supplies,office
+2024-02-21,-571.1344296025698,hotel booking,travel
+2024-02-15,-142.95377383502213,stationery purchase,office
+2024-11-17,-692.8631530278194,flight ticket,travel
+2022-12-29,-2994.6363188756923,building rent,rent
+2023-05-02,-149.7320021344058,printer ink,office
+2022-12-24,-821.7985753936605,social media ads,marketing
+2023-03-09,-1132.9607013945254,promotional expense,marketing
+2022-08-24,-133.50629415740144,stationery purchase,office
+2022-02-23,-1825.9776403906137,staff wage transfer,salary
+2025-10-05,-169.81615321600742,office supplies,office
+2022-04-19,-1705.442625578198,consultant salary,salary
+2025-07-21,-139.84853730320356,office supplies,office
+2022-01-05,5258.896308949884,customer payment received,income
+2025-02-09,-697.347402734669,hotel booking,travel
+2023-04-25,-826.7386932143556,campaign spend,marketing
+2024-01-27,-2134.7513733401925,building rent,rent
+2023-02-17,-2673.225695975136,building rent,rent
+2023-12-18,-105.51805421745345,stationery purchase,office
+2023-10-22,-2726.7376512034175,warehouse lease payment,rent
+2024-02-13,-706.9093487125793,flight ticket,travel
+2023-07-29,-148.48842503278541,printer ink,office
+2024-02-23,-701.830559179646,client visit transport,travel
+2025-04-20,-301.7893004142678,electricity payment,utilities
+2023-09-27,-406.0869356544292,internet bill,utilities
+2023-06-12,-502.5079877641758,client visit transport,travel
+2022-07-12,-639.0346249580665,hotel booking,travel
+2023-06-10,-844.7006408610725,hotel booking,travel
+2022-07-03,-2752.1184498701555,monthly office rent,rent
+2022-09-24,-545.6790047266028,client visit transport,travel
+2025-10-23,-797.6592017630877,campaign spend,marketing
+2022-05-11,-987.8067611108813,campaign spend,marketing
+2023-12-06,-2592.0813119502573,building rent,rent
+2025-05-03,-726.6809078780444,campaign spend,marketing
+2025-10-24,-1077.6145799620485,social media ads,marketing
+2022-08-03,-2325.7723947362506,staff wage transfer,salary
+2022-08-27,-168.26100115182243,office supplies,office
+2023-06-29,-869.5205316794909,hotel booking,travel
+2024-03-21,-390.66215164200366,water service charge,utilities
+2025-11-03,2144.949796124451,customer payment received,income
+2022-10-31,-657.6232526204842,client visit transport,travel
+2022-08-29,-680.3158944218845,flight ticket,travel
+2023-01-05,-2214.7429389420754,consultant salary,salary
+2025-07-01,-175.6310116995213,printer ink,office
+2022-02-13,-130.46602245614997,stationery purchase,office
+2023-07-10,-2161.6122185742547,warehouse lease payment,rent
+2022-06-23,1582.4076443443416,customer payment received,income
+2022-08-18,-2490.7938128485043,building rent,rent
+2025-09-01,-309.0535393572638,internet bill,utilities
+2022-01-03,492.6009855531214,customer payment received,income
+2023-04-15,-1863.3627402990105,consultant salary,salary
+2025-08-30,-245.47129917617295,electricity payment,utilities
+2024-06-07,-1973.8118048218876,employee payroll,salary
+2022-04-15,-971.4201971716313,social media ads,marketing
+2023-11-11,655.432753293983,customer payment received,income
+2025-11-19,-637.4949636645058,client visit transport,travel
+2023-08-09,-138.5615551870962,stationery purchase,office
+2024-02-12,-791.3892358005635,hotel booking,travel
+2024-02-17,-1021.4244323418268,campaign spend,marketing
+2024-08-22,-2624.7237477893173,monthly office rent,rent
+2022-10-01,-1774.162248049011,employee payroll,salary
+2025-05-11,-176.7193479597114,stationery purchase,office
+2025-12-15,-180.41540833642446,office supplies,office
+2022-07-28,1681.7162668959547,customer payment received,income
+2025-04-10,-319.99392534880576,internet bill,utilities
+2025-04-08,-1547.0183711909156,staff wage transfer,salary
+2024-12-19,-138.2326051144351,printer ink,office
+2023-06-26,-1048.3548163547232,campaign spend,marketing
+2023-11-16,-1726.559701141539,consultant salary,salary
+2025-05-11,-765.9735984657833,client visit transport,travel
+2022-08-12,-653.6573372843553,flight ticket,travel
+2025-04-25,-315.6947706540586,water service charge,utilities
+2025-09-07,-114.16360973955972,printer ink,office
+2024-09-23,4614.941073443289,customer payment received,income
+2023-05-14,4791.973812003266,customer payment received,income
+2024-03-27,-3050.2157475575377,building rent,rent
+2022-03-15,-1012.535444214436,promotional expense,marketing
+2025-09-23,-789.7576662779422,client visit transport,travel
+2023-05-16,-136.170508918159,printer ink,office
+2022-03-25,-568.2083662460041,client visit transport,travel
+2025-03-06,-2667.1298335199535,warehouse lease payment,rent
+2024-08-18,-393.70085596334434,electricity payment,utilities
+2024-06-28,-2490.3361773643783,building rent,rent
+2022-03-21,-875.3046182722408,social media ads,marketing
+2025-01-01,-732.5194662639353,campaign spend,marketing
+2024-07-20,-132.3361293393753,office supplies,office
+2025-03-05,-323.0847637138535,electricity payment,utilities
+2025-04-23,-1825.6080438706956,staff wage transfer,salary
+2022-11-06,-2312.325803130581,building rent,rent
+2022-11-04,-283.9391017852933,internet bill,utilities
+2025-09-11,-246.1432480906744,electricity payment,utilities
+2024-02-15,-886.1881049358038,promotional expense,marketing
+2023-10-02,-906.9312858765709,social media ads,marketing
+2023-02-24,-2394.5475790289106,monthly office rent,rent
+2024-07-22,-1891.1186288441863,employee payroll,salary
+2025-01-06,-613.0664819180432,hotel booking,travel
+2022-01-04,-359.1774574066911,electricity payment,utilities
+2024-03-18,-3030.687540055943,warehouse lease payment,rent
+2025-12-22,-123.0903559864102,stationery purchase,office
+2023-02-15,-856.4072538953624,campaign spend,marketing
+2023-02-15,-589.0559658506313,client visit transport,travel
