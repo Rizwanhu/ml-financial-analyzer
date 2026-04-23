@@ -1,0 +1,73 @@
+# ==========================================
+# Virtual Environments & Dependencies
+# ==========================================
+venv/
+env/
+.venv/
+.env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Machine Learning Data & Models
+# ==========================================
+# Ignore raw and processed data files
+*.csv
+*.tsv
+*.dat
+*.json
+data/raw/*
+data/processed/*
+datasets/
+
+# Allow keeping the empty data folders in the repository
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Ignore trained model weights and checkpoints
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.pkl
+*.pickle
+*.onnx
+*.joblib
+models/*
+checkpoints/*
+
+# Allow keeping the empty models folder
+!models/.gitkeep
+
+# ==========================================
+# Logs & Visualizations
+# ==========================================
+# TensorBoard logs and general log files
+logs/
+*.log
+runs/
+tb_logs/
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+# NEVER commit your secrets or API keys
+.env
+.env.local
+.streamlit/secrets.toml
+
+# ==========================================
+# Jupyter Notebooks
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# OS & Editor Specific
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
