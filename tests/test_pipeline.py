@@ -11,31 +11,69 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.append(str(PROJECT_ROOT / "src"))
 sys.path.append(str(PROJECT_ROOT))
 
-from ai_accounting_assistant.preprocessing import add_time_features, clean_transactions, create_forecast_series
-from scripts.train import generate_synthetic_transactions
+from fraud_banking.features import build_feature_frame
+from fraud_banking.inference import load_model
 
 
-class TestPreprocessing(unittest.TestCase):
-    def test_clean_and_time_features(self) -> None:
-        df = pd.DataFrame(
+class TestFraudPipeline(unittest.TestCase):
+    def test_feature_frame_builds(self) -> None:
+        tx = pd.DataFrame(
             [
-                {"date": "2025-01-01", "amount": -100.5, "description": "Rent", "category": "rent"},
-                {"date": "2025-01-02", "amount": "-50", "description": "Power Bill", "category": "utilities"},
+                {
+                    "id": 1,
+                    "date": "2010-01-01 00:01:00",
+                    "client_id": 825,
+                    "card_id": 4524,
+                    "amount": "$-77.00",
+                    "use_chip": "Swipe Transaction",
+                    "merchant_id": 0,
+                    "merchant_city": "X",
+                    "merchant_state": "ND",
+                    "zip": 58523,
+                    "mcc": 5499,
+                    "errors": None,
+                }
             ]
         )
-        cleaned = clean_transactions(df)
-        prepared = add_time_features(cleaned)
-        self.assertIn("month", prepared.columns)
-        self.assertIn("day_of_week", prepared.columns)
-        self.assertEqual(len(prepared), 2)
+        users = pd.DataFrame(
+            [
+                {
+                    "id": 825,
+                    "current_age": 53,
+                    "retirement_age": 66,
+                    "gender": "Female",
+                    "per_capita_income": "$29278",
+                    "yearly_income": "$59696",
+                    "total_debt": "$127613",
+                    "credit_score": 787,
+                    "num_credit_cards": 5,
+                }
+            ]
+        )
+        cards = pd.DataFrame(
+            [
+                {
+                    "id": 4524,
+                    "card_brand": "Visa",
+                    "card_type": "Debit",
+                    "has_chip": "YES",
+                    "num_cards_issued": 2,
+                    "credit_limit": "$24295",
+                    "year_pin_last_changed": 2008,
+                    "card_on_dark_web": "No",
+                }
+            ]
+        )
+        feats = build_feature_frame(tx, users=users, cards=cards)
+        self.assertGreater(feats.shape[1], 5)
+        self.assertEqual(len(feats), 1)
 
-    def test_forecast_series_creation(self) -> None:
-        df = generate_synthetic_transactions(rows=600, seed=1)
-        cleaned = clean_transactions(df)
-        prepared = add_time_features(cleaned)
-        monthly = create_forecast_series(prepared)
-        self.assertGreater(len(monthly), 10)
-        self.assertTrue({"lag_1", "lag_2", "rolling_mean_3", "amount"}.issubset(monthly.columns))
+    def test_model_artifact_loads_if_present(self) -> None:
+        # Only validates that loading works once the user trains.
+        try:
+            load_model()
+        except FileNotFoundError:
+            self.skipTest("Model not trained yet (run python scripts/train.py)")
 
 
 if __name__ == "__main__":

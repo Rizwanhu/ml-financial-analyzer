@@ -8,30 +8,34 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.append(str(PROJECT_ROOT / "src"))
 
-from ai_accounting_assistant.pipeline import load_models, run_inference
-
-
-def build_demo_input() -> pd.DataFrame:
-    """Create small demo set for integration verification."""
-    return pd.DataFrame(
-        [
-            {"date": "2025-08-02", "amount": -2200, "description": "monthly office rent", "category": "rent"},
-            {"date": "2025-08-03", "amount": -320, "description": "internet bill", "category": "utilities"},
-            {"date": "2025-08-07", "amount": 4800, "description": "customer payment received", "category": "income"},
-            {"date": "2025-08-09", "amount": -910, "description": "social media ads", "category": "marketing"},
-        ]
-    )
+from fraud_banking.inference import predict_from_transactions_df
 
 
 def main() -> None:
-    models = load_models()
-    output = run_inference(build_demo_input(), models)
-    tx = output["transactions_with_predictions"]
-    forecast = output["next_month_cashflow_prediction"]
-
-    print("Integration test completed.")
-    print(tx[["description", "predicted_category", "anomaly_flag", "anomaly_score"]].to_string(index=False))
-    print(f"Next month cashflow prediction: {forecast:.2f}")
+    demo = pd.DataFrame(
+        [
+            {
+                "id": 1,
+                "date": "2010-01-01 00:01:00",
+                "client_id": 825,
+                "card_id": 4524,
+                "amount": "$-77.00",
+                "use_chip": "Swipe Transaction",
+                "merchant_id": 12345,
+                "merchant_city": "Beulah",
+                "merchant_state": "ND",
+                "zip": 58523,
+                "mcc": 5499,
+                "errors": None,
+            }
+        ]
+    )
+    try:
+        scored = predict_from_transactions_df(demo)
+        print("Integration test completed.")
+        print(scored[["id", "fraud_proba", "fraud_pred"]].to_string(index=False))
+    except FileNotFoundError:
+        print("Model artifact not found. Train first: python scripts/train.py")
 
 
 if __name__ == "__main__":
