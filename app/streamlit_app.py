@@ -6,27 +6,29 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+# Setup project root and paths
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.append(str(PROJECT_ROOT / "src"))
 
 from fraud_banking.config import REPORTS_DIR
 from fraud_banking.inference import predict_from_transactions_df, load_model
 
-
+# Page Configuration
 st.set_page_config(page_title="Fraud Detection Banking Demo", layout="wide")
 st.title("Financial Fraud Detection (Kaggle Transactions Dataset)")
 st.caption("Train the model with `python scripts/train.py`, then use this UI for batch scoring and live checks.")
-
 
 @st.cache_resource
 def get_models():
     return load_model()
 
+# Sidebar Info
 with st.sidebar:
     st.subheader("Model")
     st.write("Artifact: `artifacts/models/fraud_pipeline.joblib`")
     st.write("Metrics: `artifacts/reports/fraud_metrics.json`")
 
+# Display Model Quality
 st.subheader("Model quality (from latest training run)")
 metrics_path = REPORTS_DIR / "fraud_metrics.json"
 if metrics_path.exists():
@@ -34,6 +36,7 @@ if metrics_path.exists():
 else:
     st.info("No metrics found yet. Train first: `python scripts/train.py`.")
 
+# Load Model
 try:
     get_models()
 except Exception as exc:
@@ -41,14 +44,40 @@ except Exception as exc:
 
 st.divider()
 
+# --- BATCH SCORING SECTION ---
 st.subheader("Batch scoring (upload a CSV)")
-st.write("Expected columns match `transactions_data.csv` (at minimum: `id,date,client_id,card_id,amount,use_chip,merchant_state,zip,mcc,errors`).")
+st.write("Expected columns: `id,date,client_id,card_id,amount,use_chip,merchant_state,zip,mcc,errors`.")
 uploaded_file = st.file_uploader("Upload transactions CSV", type=["csv"])
+
 if uploaded_file is not None:
     try:
+        # Load and Score
         df = pd.read_csv(uploaded_file)
         scored = predict_from_transactions_df(df)
-        st.dataframe(scored.sort_values("fraud_proba", ascending=False).head(200))
+        
+        # Add human-readable labels for clarity
+        scored['Status'] = scored['fraud_pred'].apply(lambda x: "⚠️ FRAUD" if x == 1 else "✅ NORMAL")
+        
+        # Calculate summary metrics
+        total_tx = len(scored)
+        fraud_count = int(scored['fraud_pred'].sum())
+        
+        # Display Metrics
+        m1, m2, m3 = st.columns(3)
+        m1.metric("Total Transactions", total_tx)
+        m2.metric("Detected Frauds", fraud_count, delta=fraud_count, delta_color="inverse")
+        m3.metric("Fraud Rate", f"{(fraud_count/total_tx)*100:.2f}%")
+
+        # Display Results Table
+        st.write("### Scored Results (Top 200 by Risk)")
+        # We sort by probability so the most suspicious ones are at the top
+        st.dataframe(
+            scored.sort_values("fraud_proba", ascending=False).head(200),
+            column_order=("Status", "fraud_proba", "amount", "date", "merchant_state", "mcc", "errors"),
+            use_container_width=True
+        )
+
+        # Download option
         st.download_button(
             "Download scored CSV",
             data=scored.to_csv(index=False).encode("utf-8"),
@@ -60,6 +89,7 @@ if uploaded_file is not None:
 
 st.divider()
 
+# --- LIVE SAMPLE CHECK SECTION ---
 st.subheader("Live sample check")
 col1, col2, col3 = st.columns(3)
 with col1:
@@ -77,6 +107,7 @@ with col3:
     sample_errors = st.text_input("errors (optional)", value="")
 
 if st.button("Score transaction"):
+    # Create single-row dataframe for the inference function
     row = pd.DataFrame(
         [
             {
@@ -95,9 +126,16 @@ if st.button("Score transaction"):
             }
         ]
     )
+    
     scored = predict_from_transactions_df(row)
     proba = float(scored.loc[0, "fraud_proba"])
     pred = int(scored.loc[0, "fraud_pred"])
-    st.metric("Fraud probability", f"{proba:.4f}")
-    st.write("Prediction:", "FRAUD" if pred == 1 else "NOT FRAUD")
-
+    
+    # Display Result with clear visual feedback
+    st.divider()
+    if pred == 1:
+        st.error(f"### ⚠️ Prediction: FRAUD DETECTED")
+        st.write(f"**Prediction Score:** {proba:.4f}")
+    else:
+        st.success(f"### ✅ Prediction: NOT FRAUD")
+        st.write(f"**Prediction Score:** {proba:.4f}")

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ==========================================
 # Virtual Environments & Dependencies
 # ==========================================
@@ -22,6 +21,7 @@ __pycache__/
 data/raw/*
 data/processed/*
 datasets/
+finance_dataset/
 
 # Allow keeping the empty data folders in the repository
 !data/raw/.gitkeep
@@ -72,6 +72,3 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
-=======
-data/raw/
->>>>>>> 55a4ddae627e300086e260a7d1e375a65af922c3
