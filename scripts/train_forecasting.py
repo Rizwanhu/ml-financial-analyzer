@@ -4,24 +4,28 @@ from pathlib import Path
 from sklearn.linear_model import LinearRegression
 
 def train_forecasting():
-    # 1. Load Data
-    df = pd.read_csv("finance_dataset/transactions_data.csv").head(5000)
+    df = pd.read_csv("finance_dataset/transactions_data.csv")
     
-    # 2. Preprocessing
-    df['amount'] = df['amount'].replace('[\$,)]', '', regex=True).replace('[(]', '-', regex=True).astype(float)
+    # Clean amount
+    df['amount'] = df['amount'].astype(str).str.replace(r'[^0-9.\-]', '', regex=True)
+    df['amount'] = df['amount'].replace('', '0').astype(float)
     
-    # 3. Features (X = Transaction ID) and Target (y = Amount)
-    X = df[['id']] 
-    y = df['amount']
+    # GROUP BY DATE - This makes the trend much clearer!
+    # We take just the date part of the timestamp
+    df['date_only'] = pd.to_datetime(df['date']).dt.date
+    daily_spend = df.groupby('date_only')['amount'].sum().reset_index()
     
-    # 4. Train
+    # Use day sequence (1, 2, 3...) as X
+    daily_spend['day_index'] = range(len(daily_spend))
+    X = daily_spend[['day_index']]
+    y = daily_spend['amount']
+    
     model = LinearRegression()
     model.fit(X, y)
     
-    # 5. Save
     model_path = Path("artifacts/models/forecaster.joblib")
     joblib.dump(model, model_path)
-    print(f"✅ Forecasting model saved to {model_path}")
+    print(f"✅ Re-trained on Daily Totals!")
 
 if __name__ == "__main__":
     train_forecasting()
