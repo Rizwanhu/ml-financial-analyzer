@@ -1,24 +1,30 @@
 import streamlit as st
 import pandas as pd
-import joblib
 import sys
-import numpy as np
 from pathlib import Path
 
 # --- PATH SETUP ---
 PROJECT_ROOT = Path(__file__).resolve().parents[2] 
 sys.path.append(str(PROJECT_ROOT / "src"))
 
+from forecasting_banking import (
+    load_forecaster,
+    predict_future_spend,
+    clean_amount,
+)
+
 st.set_page_config(page_title="Spending Forecast", layout="wide")
 st.title("📈 Spending Forecast")
 st.caption("Analyzing historical patterns to predict future financial activity.")
 
 @st.cache_resource
-def load_forecast_model():
-    model_path = PROJECT_ROOT / "artifacts" / "models" / "forecaster.joblib"
-    return joblib.load(model_path) if model_path.exists() else None
+def get_model():
+    try:
+        return load_forecaster()
+    except FileNotFoundError:
+        return None
 
-model = load_forecast_model()
+model = get_model()
 
 if model is None:
     st.error("⚠️ Forecasting model not found! Run `python scripts/train_forecasting.py` first.")
@@ -30,8 +36,7 @@ uploaded_file = st.file_uploader("Upload transactions CSV to forecast", type=["c
 if uploaded_file is not None:
     try:
         df = pd.read_csv(uploaded_file)
-        df['amount'] = df['amount'].astype(str).str.replace(r'[^0-9.\-]', '', regex=True)
-        df['amount'] = df['amount'].replace('', '0').astype(float)
+        df['amount'] = clean_amount(df['amount'])
         
         # 1. Historical Analysis
         st.write("### Historical Spending Pattern")
@@ -39,8 +44,7 @@ if uploaded_file is not None:
         
         # 2. Prediction Logic
         last_index = len(df)
-        future_indices = np.array(range(last_index, last_index + 10)).reshape(-1, 1)
-        predictions = model.predict(future_indices)
+        predictions = predict_future_spend(model, last_index, steps=10)
         
         # 3. Actionable Insights
         st.divider()

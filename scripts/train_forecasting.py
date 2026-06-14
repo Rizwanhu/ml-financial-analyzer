@@ -1,31 +1,36 @@
-import pandas as pd
-import joblib
-from pathlib import Path
-from sklearn.linear_model import LinearRegression
+from __future__ import annotations
 
-def train_forecasting():
-    df = pd.read_csv("finance_dataset/transactions_data.csv")
-    
-    # Clean amount
-    df['amount'] = df['amount'].astype(str).str.replace(r'[^0-9.\-]', '', regex=True)
-    df['amount'] = df['amount'].replace('', '0').astype(float)
-    
-    # GROUP BY DATE - This makes the trend much clearer!
-    # We take just the date part of the timestamp
-    df['date_only'] = pd.to_datetime(df['date']).dt.date
-    daily_spend = df.groupby('date_only')['amount'].sum().reset_index()
-    
-    # Use day sequence (1, 2, 3...) as X
-    daily_spend['day_index'] = range(len(daily_spend))
-    X = daily_spend[['day_index']]
-    y = daily_spend['amount']
-    
-    model = LinearRegression()
-    model.fit(X, y)
-    
-    model_path = Path("artifacts/models/forecaster.joblib")
-    joblib.dump(model, model_path)
-    print(f"✅ Re-trained on Daily Totals!")
+import argparse
+import sys
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT / "src"))
+
+from forecasting_banking.train import train_forecasting
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Train spending forecasting model.")
+    parser.add_argument(
+        "--chunksize",
+        type=int,
+        default=250000,
+        help="CSV chunksize for streaming the large transactions file.",
+    )
+    args = parser.parse_args()
+
+    csv_path = PROJECT_ROOT / "finance_dataset" / "transactions_data.csv"
+    model_path = PROJECT_ROOT / "artifacts" / "models" / "forecaster.joblib"
+
+    print("Starting forecasting model training on daily totals...")
+    saved_path = train_forecasting(
+        csv_path,
+        model_path=model_path,
+        chunksize=args.chunksize,
+    )
+    print(f"✅ Re-trained on Daily Totals! Forecaster saved to {saved_path}")
+
 
 if __name__ == "__main__":
-    train_forecasting()
+    main()

@@ -1,13 +1,18 @@
 import streamlit as st
 import pandas as pd
-import joblib
 import sys
-import json
 from pathlib import Path
 
 # --- PATH SETUP ---
 PROJECT_ROOT = Path(__file__).resolve().parents[2] 
 sys.path.append(str(PROJECT_ROOT / "src"))
+
+from classification_banking import (
+    load_classification_model,
+    classify_transactions_df,
+    predict_mcc,
+    load_mcc_mapping,
+)
 
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Transaction Classification", layout="wide")
@@ -16,20 +21,19 @@ st.caption("Categorizing transactions into human-readable merchant types.")
 
 # --- HELPERS ---
 @st.cache_resource
-def load_classification_model():
-    model_path = PROJECT_ROOT / "artifacts" / "models" / "classification_model.joblib"
-    return joblib.load(model_path) if model_path.exists() else None
+def get_model():
+    try:
+        return load_classification_model()
+    except FileNotFoundError:
+        return None
 
 @st.cache_data
-def load_mcc_names():
+def get_mcc_map():
     mcc_path = PROJECT_ROOT / "finance_dataset" / "mcc_codes.json"
-    if mcc_path.exists():
-        with open(mcc_path, 'r') as f:
-            return json.load(f)
-    return {}
+    return load_mcc_mapping(mcc_path)
 
-model = load_classification_model()
-mcc_map = load_mcc_names()
+model = get_model()
+mcc_map = get_mcc_map()
 
 if model is None:
     st.error("⚠️ Classification model not found! Please run `python scripts/train_classification.py` first.")
@@ -44,15 +48,8 @@ if uploaded_file is not None:
         df = pd.read_csv(uploaded_file)
         
         if 'amount' in df.columns:
-            temp_df = df.copy()
-            temp_df['amount'] = temp_df['amount'].astype(str).str.replace(r'[^0-9.\-]', '', regex=True)
-            temp_df['amount'] = temp_df['amount'].replace('', '0').astype(float)
-            
-            # Predict
-            df['Predicted_MCC'] = model.predict(temp_df[['amount']])
-            
-            # Translate Code to Name (e.g., 5411 -> Groceries)
-            df['Category_Name'] = df['Predicted_MCC'].astype(str).map(mcc_map).fillna("Other/Misc Services")
+            # Use modular classification dataframe scoring
+            df = classify_transactions_df(df, model=model)
             
             # Show results with readable names
             st.write("### Categorized Results")
@@ -83,7 +80,7 @@ with col1:
     test_amount = st.number_input("Transaction Amount ($)", value=100.0, step=10.0)
 
 if st.button("Classify Transaction"):
-    prediction = model.predict([[test_amount]])[0]
+    prediction = predict_mcc(model, [test_amount])[0]
     category_name = mcc_map.get(str(prediction), "Unknown Category")
     
     with col2:

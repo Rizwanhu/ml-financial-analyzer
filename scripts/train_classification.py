@@ -1,31 +1,43 @@
-import pandas as pd
-import joblib
-from pathlib import Path
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
+from __future__ import annotations
 
-def train_classification():
-    # 1. Load Data
-    df = pd.read_csv("finance_dataset/transactions_data.csv").head(10000) # Use a subset for speed
-    
-    # 2. Basic Preprocessing
-    # Convert '$77.00' string to float 77.00
-    df['amount'] = df['amount'].replace('[\$,)]', '', regex=True).replace('[(]', '-', regex=True).astype(float)
-    
-    # 3. Define Features (X) and Target (y)
-    X = df[['amount']] 
-    y = df['mcc']
-    
-    # 4. Train Model
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
-    model = RandomForestClassifier(n_estimators=10)
-    model.fit(X_train, y_train)
-    
-    # 5. Save Model
-    model_path = Path("artifacts/models/classification_model.joblib")
-    model_path.parent.mkdir(parents=True, exist_ok=True)
-    joblib.dump(model, model_path)
-    print(f"✅ Classification model saved to {model_path}")
+import argparse
+import sys
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT / "src"))
+
+from classification_banking.train import train_classification
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Train transaction classification model.")
+    parser.add_argument(
+        "--max_rows",
+        type=int,
+        default=10000,
+        help="Cap transaction rows kept for training (for speed/memory).",
+    )
+    parser.add_argument(
+        "--chunksize",
+        type=int,
+        default=250000,
+        help="CSV chunksize for streaming the large transactions file.",
+    )
+    args = parser.parse_args()
+
+    csv_path = PROJECT_ROOT / "finance_dataset" / "transactions_data.csv"
+    model_path = PROJECT_ROOT / "artifacts" / "models" / "classification_model.joblib"
+
+    print("Starting classification model training...")
+    saved_path = train_classification(
+        csv_path,
+        model_path=model_path,
+        max_rows=args.max_rows,
+        chunksize=args.chunksize,
+    )
+    print(f"✅ Classification model saved to {saved_path}")
+
 
 if __name__ == "__main__":
-    train_classification()
+    main()
